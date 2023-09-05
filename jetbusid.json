@@ -14,7 +14,7 @@
       "open_ads_max" :"",
       "open_ads_wortise":"",
       "interval_intertitial": 1,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -27,34 +27,34 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "",
+      "view_map": "",
+      "map_url": ""
     },
     {
-      "name_map": "2",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
+      "name_map": "",
+      "view_map": "",
       "map_url": ""
     },
     {
       "name_map": "3",
-      "view_map": "file:///android_asset/berkelok.webp",
+      "view_map": "",
       "map_url": ""
     },
     {
       "name_map": "4",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
+      "view_map": "",
       "map_url": ""
     },
     {
       "name_map": "5",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
+      "view_map": "",
       "map_url": ""
     }
   ],
   "Mods": [
     {
-      "title": "MOD JETBUS 5 Bussid ( JB5 ) ADIPUTRO SHD",
+      "title": "Jetbus 5 Bussid ( JB5 ) ADIPUTRO SHD",
       "image": "https://i.pinimg.com/564x/11/5a/6a/115a6a8f39f8bfb7cff7b54ae80cf936.jpg",
       "category": "Bus Jetbus",
       "link_mods": "https://drive.google.com/uc?export=download&id=1Gedf73fp5NWyNWfc-R6FDpThRNNmEBX0",
@@ -64,44 +64,44 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "title": "Jetbus 5 JB5 VAR MERCY",
+      "image": "https://i.pinimg.com/564x/11/5a/6a/115a6a8f39f8bfb7cff7b54ae80cf936.jpg",
       "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-    },
-    {
-      "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
-      "image": "file:///android_asset/Ultimate.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/SR3.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1vlHFnM9btYrUfNvheHuNZFvCe8Wmo0Dz",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+      "title": "JB3+ MERCY O500R",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-JB3-Mercy-O500R.jpeg",
+      "category": "Bus",
+      "link_mods": "https://drive.google.com/uc?export=download&id=15Up3N2yb3lVaLhW0EiUnKqzdMTzEDvSM",
+      "name_livery": "BCB (TASIK - JAKARTA)",
+      "link_livery": "https://i.pinimg.com/564x/93/3f/c6/933fc6d0d025941da45ea7d333fc434d.jpg",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
+      "title": "JB3+ SCANIA NON FACELIFT",
+      "image": "https://img.youtube.com/vi/eXFXgAZ4fPU/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1jK9W_1Lqn8mCJEKTMwZOmKC2q_tEEj54",
+      "name_livery": "BCB (TASIK - JAKARTA)",
+      "link_livery": "https://i.pinimg.com/564x/43/53/25/435325d3b328b7473bf12fb4bc68ca0b.jpg",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JB3+ TRONTON SCANIA",
+      "image": "https://1.bp.blogspot.com/-90vSq_9YpTs/Xr5Mu7AYaBI/AAAAAAAADw0/2qflNN6XR58nDpLBs_i4ScEZvfzk3ViBgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Photo_200515022013.jpeg",
+      "category": "bus",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1mqmidlAosEfHoGu7iFjdtZYYTzKwy_fo",
+      "name_livery": "Haryanto ghafir tronton",
+      "link_livery": "hhttps://i.pinimg.com/564x/d4/0f/e4/d40fe41ecf9d1e48fe607fdb0c050642.jpg",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",

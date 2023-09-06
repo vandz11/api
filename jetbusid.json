@@ -27,7 +27,7 @@
   ],
   "Maps": [
     {
-      "name_map": "https://i.pinimg.com/564x/11/5a/6a/115a6a8f39f8bfb7cff7b54ae80cf936.jpg",
+      "name_map": "Jetbus 5 Bussid",
       "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-Map-Kelok-44-Jalan-Rusak.webp",
       "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/mod%20map%20blusukan.bussidmod"
     }
@@ -134,25 +134,25 @@
       "link_livery2": "null"
     },
     {
-			"title": "New Santika Khatulistiwa",
-			"image": "https://ayomart.id/wp-content/uploads/2023/08/new-santika.png",
-			"category": "bus",
-			"link_mods": "https://drive.google.com/uc?export=download&id=1IndfBnW8P4MWQk35Ph2pWyRrdcrtVBl8",
-			"name_livery": "New Shantika Dream Coach Yusuf Af Blahbloh",
-			"link_livery": "https://drive.google.com/uc?export=download&id=11Q_jgrjKOnl9DjQOYwd49tAMGHaZZm3t",
-			"name_livery2": "null",
-			"link_livery2": "null"
-		},
-		{
-			"title": "Bus Primajasa Scorpion X Full Anim",
-			"image": "https://i.pinimg.com/736x/2d/80/10/2d80102e3496a62091c5081a470be1e3.jpg",
-			"category": "bus",
-			"link_mods": "https://drive.google.com/uc?export=download&id=1dLS5Z6XUuRlZVbUzoph-WEhUpqgvkc5-",
-			"name_livery": "Primajasa Scor X",
-			"link_livery": "https://drive.google.com/uc?export=download&id=1e8dWRlw3K-yFuHvWpxZ7fr2vPF5OVtH1",
-			"name_livery2": "null",
-			"link_livery2": "null"
-		}
+      "title": "New Santika Khatulistiwa",
+      "image": "https://ayomart.id/wp-content/uploads/2023/08/new-santika.png",
+      "category": "bus",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1IndfBnW8P4MWQk35Ph2pWyRrdcrtVBl8",
+      "name_livery": "New Shantika Dream Coach Yusuf Af Blahbloh",
+      "link_livery": "https://drive.google.com/uc?export=download&id=11Q_jgrjKOnl9DjQOYwd49tAMGHaZZm3t",
+      "name_livery2": "null",
+      "link_livery2": "null"
+     },
+     {
+       "title": "Bus Primajasa Scorpion X Full Anim",
+       "image": "https://i.pinimg.com/736x/2d/80/10/2d80102e3496a62091c5081a470be1e3.jpg",
+       "category": "bus",
+       "link_mods": "https://drive.google.com/uc?export=download&id=1dLS5Z6XUuRlZVbUzoph-WEhUpqgvkc5-",
+       "name_livery": "Primajasa Scor X",
+       "link_livery": "https://drive.google.com/uc?export=download&id=1e8dWRlw3K-yFuHvWpxZ7fr2vPF5OVtH1",
+       "name_livery2": "null",
+       "link_livery2": "null"
+      }
   ],
   "Audio": [
     {

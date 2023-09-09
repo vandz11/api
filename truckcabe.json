@@ -35,43 +35,28 @@
       "name_map": "Kelok 18 by Fajri GMP",
       "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
       "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
-    },
-    {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
-    }
+     }
   ],
   "Mods": [
     {
-      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
-      "image": "file:///android_asset/Prime.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "title": "BLACK TEAM TRON",
+      "image": "https://www.finsy.co.id/wp-content/uploads/2023/05/livery-bussid-truk.jpg",
+      "category": "Truck",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1hdtdW1Zp9nKaeaCCvmfdnRNn1YnP1u9F",
+      "name_livery": "Livery BLACK TEAM TRON",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1jq_JnvwUd2bGJ7BC-ykKV6PewLJnY8BS",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "title": "CANTER buruh lombok",
+      "image": "https://i.ytimg.com/vi/_VloLfFO5MY/maxresdefault.jpg",
+      "category": "Truck",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1m04cR9WI2w2Pics69xsON5lKUGaGB9Zv",
+      "name_livery": "Livery Bemet",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1WGzsTdlKhKxtFTiqg6PICxHjKZ_9ZS9E",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "SR3 XHD Prime Ultimate by MN Art x BFC",

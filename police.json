@@ -27,19 +27,19 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "Map Jalur Maut Papua",
+      "view_map": "https://i.ytimg.com/vi/c041MF6tMak/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-jalur-maut/mod%20map%20jalur%20maut.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.ytimg.com/vi/8KeCChnSHEc/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/full%20jalur%20khusus%20ofroad.bussidmod"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+      "name_map": "bukit bintang",
+      "view_map": "https://i.ytimg.com/vi/H8ZAQUU_6sY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/bukit%20bintang%20amdroid93.bussidmod"
     }
   ],
   "Mods": [
@@ -105,7 +105,7 @@
     },
     {
       "title": "Mitsubishi Lancer Evolution Polres",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/04/MOD-BUSSID-Mobil-Mitsubishi-Lancer-Evolution-X-Police.jpeg",
       "category": "Mobil",
       "link_mods": "https://drive.google.com/uc?export=download&id=11Sc4sqwQUT4-2zfNOJHEWvoxVR9W4M0m",
       "name_livery": "Mitsubishi Lancer Evolution Polres",
@@ -125,7 +125,7 @@
     },
     {
       "title": "Mobil Canter Polisi Tertutup",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "image": "https://i.ytimg.com/vi/l5vbN1FOPOE/hqdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://drive.google.com/uc?export=download&id=1dwvHlJhGnbpxgdfnsaFW0jXKBc31BVgM",
       "name_livery": "Mobil Canter Polisi Tertutup",

@@ -27,19 +27,19 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "Map Sirkuit Balap",
+      "view_map": "https://assets.karyakarsa.com/post-image-6264872b44904.jpeg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1MqIP_QugsCO7wHaRC5PJB77rOMEmgX2Q"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "Green Mars Terbesar",
+      "view_map": "https://ekonomiupri.id/wp-content/uploads/2023/05/Green-Mars-V1.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1FFWa-yS_YdkMt0i6cxEnTNNIkEyeQzg9"
     }
   ],
   "Mods": [
     {
-      "title": "Mod Motor Drag Tiger CJDW",
+      "title": "Tiger CJDW",
       "image": "https://combinesia.web.id/wp-content/uploads/2022/09/Bussid_Tiger_CJDW.webp",
       "category": "Bus",
       "link_mods": "https://archive.org/download/barbara-sapu-angin-cvt-by-rega-x-gaming/Bussid%20Tiger%20CJDW.bussidmod",
@@ -49,7 +49,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mod Motor Drag CVT",
+      "title": "Drag CVT",
       "image": "https://play-lh.googleusercontent.com/9c2XM89PaK42kWh9Y7XYlnJi-MUqBcQNVK9Tt6yZ_weGEahwQwB6e9u0R0tgndfgI0Q",
       "category": "Bus",
       "link_mods": "https://archive.org/download/barbara-sapu-angin-cvt-by-rega-x-gaming/HEREX%20GL%20MILKITA%20CVT%20BY%20REGA%20X%20GAMING%20MOD%20BY%20IAM%20PROJECT%20.bussidmod",
@@ -59,7 +59,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mod Motor Drag CJDW Gank",
+      "title": "Drag CJDW Gank",
       "image": "https://1.bp.blogspot.com/-k9ixeyLTh_Y/YKKwErAzzjI/AAAAAAAAMos/VxyMg1Ow5WsutCKuvU6LE3_g9NYkKcnTgCLcBGAsYHQ/s467/MOD-Bussid-RX-King.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/barbara-sapu-angin-cvt-by-rega-x-gaming/HEREX%20GL%20MILKITA%20CVT%20BY%20REGA%20X%20GAMING%20MOD%20BY%20IAM%20PROJECT%20.bussidmod",
@@ -69,7 +69,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "Motor Drag RX King",
+      "title": "RX King",
       "image": "https://combinesia.web.id/wp-content/uploads/2022/09/RX-KING-STYLE-BANDUNG.webp",
       "category": "Truk",
       "link_mods": "https://archive.org/download/mp-pilotter-rega-x-ilham_202309/RX%20KING%20STYLE%20BANDUNG.bussidmod",
@@ -79,7 +79,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "Motor Drag MP Arganta",
+      "title": "MP Arganta",
       "image": "https://combinesia.web.id/wp-content/uploads/2022/09/MP_ARGANTA.webp",
       "category": "Truk",
       "link_mods": "https://archive.org/download/mp-pilotter-rega-x-ilham_202309/MP%20ARGANTA.bussidmod",
@@ -89,7 +89,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "Motor Drag MP Pilotter",
+      "title": "MP Pilotter",
       "image": "https://combinesia.web.id/wp-content/uploads/2022/09/MP-PILOTTER-REGA-X-ILHAM.webp",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/mp-pilotter-rega-x-ilham_202309/MP%20PILOTTER%20REGA%20X%20ILHAM.bussidmod",
@@ -99,7 +99,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "Motor Drag Ninja 150 RR",
+      "title": "Ninja 150 RR",
       "image": "https://combinesia.web.id/wp-content/uploads/2022/09/MOD-NINJA-150-RR-DRAG-BUSSID-FREE-BY-AZUMODS.webp",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/mp-pilotter-rega-x-ilham_202309/MOD%20NINJA%20150%20RR%20DRAG%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
@@ -109,7 +109,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "MOD MIO DRAG 200CC",
+      "title": "MIO 200CC",
       "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/mp-pilotter-rega-x-ilham_202309/MOD%20MIO%20DRAG%20200CC%20BUSSID%20BY%20AZUMODS.bussidmod",
@@ -129,10 +129,50 @@
       "link_livery2": "null"
     },
     {
-      "title": "MOTOR CBR600 RR ",
+      "title": "MOTOR CBR600 RR",
       "image": "https://www.gtainside.com/downloads/picr/2017-09/1508935462_cbr600.50.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/aerox-hedon-v-2-by-rxg/MOD%20MOTOR%20CBR600RR%20BY%20BASSAMAZUPER_AZUMODS%20%5Bwww.modbussidterbaru.com%5D.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "GOJEK SUPRA BUSSID",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Honda-Supra-X-125.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1qP4neI6sHo6K_YGMx0izUo6Jumkb-Ea0",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "SATRIA FU BUSSID",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhThq4yQ7SWI6XZmOD9oJHQKIFlYVYmVhS_hs-9LBPW3tcvkR4HNyhlYYf9G_AUYm_yMc7mHlOiEM1ncZjQ3J1yLmg_Ykzsdv62n6BQDMg5QYeXzfM3X_UTfF86aG7sgdT-Pd5kI2mbqQHsKtDapgjjgAub_0YBEOgX2B85x_uqnZJtvnDiS65pPx8y5Q/s1240/bussid-mod-drag-satria-fu.webp",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1BMT5YFs8ZzdhJS4OsATrtq3BZMH_MIVu",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "HONDA BEAT RACING",
+      "image": "https://media.hobigame.id/2023/02/mod-motor-bussid-honda-beat-drag-racing-1-hobigame.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mod-ninja-150-rr-drag-bussid-free-by-azumods_202309/MOD-BUSSID_HONDA_BEAT_RACING_BY_AZUMODS_BASSAMAZUPER.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "HEREX GL MOLTO",
+      "image": "https://i.ytimg.com/vi/QI6Fw3_Q6LQ/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=13q6peKu-yX8QDKm7U0bnRfs8pfLzrT2L",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",

@@ -40,28 +40,18 @@
       "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
       "view_map": "file:///android_asset/berkelok.webp",
       "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
     }
   ],
   "Mods": [
     {
-      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
-      "image": "file:///android_asset/Prime.webp",
+      "title": "DJ Car Pickup",
+      "image": "https://play-lh.googleusercontent.com/QWFY7uxR4Q737ilxQPi3gmco3STtoP553vx9jF6aDl1B2b3-ACZnislSyrwejm44e3DW=w1024-h500",
       "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "link_mods": "https://drive.google.com/uc?export=download&id=11nSx6o0MVOetNnTJqpfmtOVQfm6O3XGW",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",

@@ -27,19 +27,19 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
+      "view_map": "https://i.ytimg.com/vi/SaIvVtFKTvk/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/MOD%20MAP%20BLUSUKAN%20DI%20WONOSOBO.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "jalur puncak 1",
+      "view_map": "https://i.ytimg.com/vi/wrKfezAof_0/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+      "name_map": "map tambang",
+      "view_map": "https://i.ytimg.com/vi/M4PU1fSRhlo/sddefault.jpg?v=631df7ce",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/map%20tambang.bussidmod"
     }
   ],
   "Mods": [
@@ -146,24 +146,29 @@
   ],
   "Audio": [
     {
-      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
-      "name": "Santri Njoso",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+      "title_mp3": "Dj Viral Remix Terbaru 2023",
+      "name": "Dj Viral Remix Terbaru",
+      "url_mp3": "https://drive.google.com/uc?export=download&id=1_kZ-Dhv-1Q_KGX8LnTlNbi3O4SoSAN1E"
     },
     {
-      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+      "title_mp3": "DJ O MERE SANAM",
+      "name": "DJ O MERE SANAM",
+      "url_mp3": "https://drive.google.com/uc?export=download&id=1mwhsSlhjIAV945MB1GSCFi1UhjGpnvS2"
+    },
+    {
+      "title_mp3": "DJ TUJHE DEKHA TOH",
+      "name": "DJ TUJHE DEKHA TOH",
+      "url_mp3": "https://drive.google.com/uc?export=download&id=1HFWbgMmSt1jv4tZ0aQimoj5hHbJDXwtL"
     }
   ],
   "Radio": [
     {
-      "title_radio": "Rodja 756 AM",
-      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+      "title_radio": "DJ NONSTOP",
+      "url_radio": "https://onlineradiobox.com/id/gendingjawa/"
     },
     {
-      "title_radio": "Suara Al-Iman 846 AM",
-      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+      "title_radio": "Retjo Buntung FM",
+      "url_radio": "https://onlineradiobox.com/id/retjo/"
     }
    ]
 }

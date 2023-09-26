@@ -2,18 +2,18 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-9341398947692431/5285879093",
+      "main_ads_intertitial":"ca-app-pub-9341398947692431/1150907552",
+      "main_ads_natives":"ca-app-pub-9341398947692431/4427807586",
+      "backup_ads_natives":"08d06598ebb144e5",
+      "backup_ads_banner":"ea81f3207921d691",
+      "backup_ads_intertitial":"eb571f431735a32e",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -35,6 +35,11 @@
       "name_map": "jalur puncak 1",
       "view_map": "https://i.ytimg.com/vi/2nzkkEh02kg/sddefault.jpg",
       "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
+     },
+     {
+      "name_map": "map tambang",
+      "view_map": "https://i.ytimg.com/vi/Ac-i7Fj91_I/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/map%20tambang.bussidmod"
      }
   ],
   "Mods": [

@@ -27,29 +27,24 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "Forest Snow Road Map",
+      "view_map": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-04112022-174835.jpg?fit=1200%2C674&ssl=1",
+      "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "Sirkuit Balapan",
+      "view_map": "https://assets.karyakarsa.com/post-image-6264872a8de3b.jpeg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1MqIP_QugsCO7wHaRC5PJB77rOMEmgX2Q"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+      "name_map": "TAWANGMANGU_V.1_SIANG",
+      "view_map": "https://i.ytimg.com/vi/U6tOlmA_JFg/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
     },
     {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.ytimg.com/vi/ANk7G2pzc_U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBkaH2XtclY0tlvAM_-4dttqtA-KQ",
       "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
     }
   ],
   "Mods": [

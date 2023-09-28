@@ -55,7 +55,7 @@
   "Mods": [
     {
       "title": "Audi R8 Sport Driver",
-      "image": "file:///android_asset/Prime.webp",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/07/Audi-R8-Sport.jpeg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Audi%20R8%20Sport%20Driver.bussidmod",
       "name_livery": "null",
@@ -65,7 +65,7 @@
     },
     {
       "title": "Ford Thunderbird Lowriders Driver",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "image": "https://i.ytimg.com/vi/PI3bVeMLSw8/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Ford%20Thunderbird%20Lowriders%20Driver.bussidmod",
       "name_livery": "null",
@@ -75,7 +75,7 @@
     },
     {
       "title": "Fortuner Street Racing Driver",
-      "image": "file:///android_asset/Ultimate.webp",
+      "image": "https://i.ytimg.com/vi/x0tfOIXGspI/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Fortuner%20Street%20Racing%20Driver.bussidmod",
       "name_livery": "null",
@@ -85,7 +85,7 @@
     },
     {
       "title": "Nissan GT-R LB 2023",
-      "image": "file:///android_asset/Ghaisan.webp",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/09/Nissan-GT-R-LB-Works-New-Update-2022.jpeg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Nissan%20GT-R%20LB%20Works%20New%20Update%202022%20No%20Driver.bussidmod",
       "name_livery": "null",
@@ -95,7 +95,7 @@
     },
     {
       "title": "Nissan Slvia S14 RedBull Driver",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/09/Nissan-Slvia-S14-RedBull.jpeg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Nissan%20Slvia%20S14%20RedBull%20Driver.bussidmod",
       "name_livery": "null",
@@ -105,7 +105,7 @@
     },
     {
       "title": "Rolls Royce Ghost Mansory",
-      "image": "file:///android_asset/Skyline.webp",
+      "image": "https://i.ytimg.com/vi/j3gYqhiQomo/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Rolls-Royce%20Ghost%20Mansory%20by%20artur0777%20Driver.bussidmod",
       "name_livery": "null",
@@ -115,7 +115,7 @@
     },
     {
       "title": "XPANDER 2023 RALLY LOCK",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "image": "https://i.ytimg.com/vi/trjgADpJQRw/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/XPANDER%202022%20RALLY%20LOCK.bussidmod",
       "name_livery": "null",
@@ -124,10 +124,10 @@
       "link_livery2": "null"
     },
     {
-      "title": "Forturner gr sport",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "title": "Mitsubishi Eclipse GS-T 1997 Fast and Furious",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/09/SGCA_IMG-05092023-113325.jpeg?resize=1536%2C864&ssl=1",
       "category": "Mobil",
-      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/gr4.bussidmod",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1qEfW9Lt4853JP2Fp4V34sAWQ8VpZoe6y",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
@@ -144,12 +144,82 @@
       "link_livery2": "null"
     },
     {
-      "title": "fortuner gr full sticker",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "Pagani Utopia 2023",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/07/SGCA_IMG-21072023-072400.jpeg?fit=1600%2C900&ssl=1",
       "category": "Mobil",
-      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/toyota%20fortuner%20GR%20Sport%20full%20sticker.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1q6_JfTIMVn0QNzJIIfjebRAgKfH3E9nB",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Alphard Hybrid Executive",
+      "image": "https://i.ytimg.com/vi/DfoFr0c1r10/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1qHjMIkT3R7ysXjWCs0q2JEu1VcJ3gglD",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bugatti Divo",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Mobil-Bugatti-Divo.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Bugatti%20Divo%20-%20Javastech.com.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Honda NSX Liberty Walk 2023",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/06/SGCA_IMG-26062023-000946.jpeg?fit=1600%2C900&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1usNDSpzZ1Oxdb3w4IP_qZVibYXZl9UZr",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Honda Civic Type R",
+      "image": "https://i.ytimg.com/vi/5_boA6sr4gI/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Honda%20Civic%20TypeR%20by%20NanoNano%20-%20Javastech.com.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Ford Mustang RTR Spec 5 2021",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/06/SGCA_IMG-25062023-012019.jpeg?resize=1536%2C864&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=118GAf40t7Fk8RAw-1rFlIaz7GGDbz8kj",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Pajero Black 2016 Original",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/09/SGCA_IMG-15092023-004959.jpeg?resize=1536%2C864&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Pajero%20Black%202016%20Original.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota GT86 Mcqueen",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Mobil-Toyota-GT68-McQueen.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Toyota%20GT86%20Mcqueen%20Car%20-%20Javastech.com.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     }

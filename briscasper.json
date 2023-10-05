@@ -37,15 +37,15 @@
       "map_url": "https://drive.google.com/uc?export=download&id=1FFWa-yS_YdkMt0i6cxEnTNNIkEyeQzg9"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+      "name_map": "Muddy Off-Road",
+      "view_map": "https://i.ytimg.com/vi/EFIdx5343Fc/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=15CA6OUln13XRJR47qD5ayt--2GeoI9lw"
     }
    
    ],
   "Mods": [
     {
-      "title": "Bris Trans Casper",
+      "title": "Casper",
       "image": "https://i.ytimg.com/vi/s2n45B5mNL8/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/tuan-muda-bussid/6.%20JETBUS%203%20Trans%20Casper.bussidmod",

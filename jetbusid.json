@@ -27,9 +27,14 @@
   ],
   "Maps": [
     {
-      "name_map": "Jetbus 5 Bussid",
+      "name_map": "Map Kelok Jalan-Rusak",
       "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-Map-Kelok-44-Jalan-Rusak.webp",
       "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/mod%20map%20blusukan.bussidmod"
+    },
+    {
+      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
+      "view_map": "https://i.ytimg.com/vi/Zk49RugkVng/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/MOD%20MAP%20BLUSUKAN%20DI%20WONOSOBO.bussidmod"
     }
   ],
   "Mods": [
@@ -39,7 +44,7 @@
       "category": "Bus Jetbus",
       "link_mods": "https://drive.google.com/uc?export=download&id=1Gedf73fp5NWyNWfc-R6FDpThRNNmEBX0",
       "name_livery": "JB5 VAR HINO",
-      "link_livery": "https://i.pinimg.com/564x/36/5f/c7/365fc7ec8ccdd24a50c8d5b540423161.jpg",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1ElbH7ooqgapT9wr05_2bx3NYmxUq8-6s",
       "name_livery2": "MOD JB5 27 TRANS",
       "link_livery2": "https://drive.google.com/uc?export=download&id=1Uy1vpmn7rbNn_C3Gxg2Y0B_U-b1jz9D7"
     },
@@ -59,7 +64,7 @@
       "category": "Bus",
       "link_mods": "https://drive.google.com/uc?export=download&id=15Up3N2yb3lVaLhW0EiUnKqzdMTzEDvSM",
       "name_livery": "BCB (TASIK - JAKARTA)",
-      "link_livery": "https://i.pinimg.com/564x/93/3f/c6/933fc6d0d025941da45ea7d333fc434d.jpg",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1Hq9uB-Qo8IylodZgG0DAMLXy15nvhXKq",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -69,7 +74,7 @@
       "category": "Bus",
       "link_mods": "https://drive.google.com/uc?export=download&id=1jK9W_1Lqn8mCJEKTMwZOmKC2q_tEEj54",
       "name_livery": "BCB (TASIK - JAKARTA)",
-      "link_livery": "https://i.pinimg.com/564x/43/53/25/435325d3b328b7473bf12fb4bc68ca0b.jpg",
+      "link_livery": "https://drive.google.com/uc?export=download&id=14b7R9j1BN3YtBXrtlvideuRBiKIkOUG0",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -79,7 +84,7 @@
       "category": "bus",
       "link_mods": "https://drive.google.com/uc?export=download&id=1mqmidlAosEfHoGu7iFjdtZYYTzKwy_fo",
       "name_livery": "Haryanto ghafir tronton",
-      "link_livery": "hhttps://i.pinimg.com/564x/d4/0f/e4/d40fe41ecf9d1e48fe607fdb0c050642.jpg",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1o1htQ2jXJlanOat6xwK7DAzk4Ovs3vRX",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -150,6 +155,26 @@
        "link_mods": "https://drive.google.com/uc?export=download&id=1dLS5Z6XUuRlZVbUzoph-WEhUpqgvkc5-",
        "name_livery": "Primajasa Scor X",
        "link_livery": "https://drive.google.com/uc?export=download&id=1e8dWRlw3K-yFuHvWpxZ7fr2vPF5OVtH1",
+       "name_livery2": "null",
+       "link_livery2": "null"
+      },
+      {
+       "title": "Tunggal Jaya Moon Eyes",
+       "image": "https://i.ytimg.com/vi/3DG0hmchYXw/maxresdefault.jpg",
+       "category": "bus",
+       "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/Tunggal%20Jaya%20Moon%20Eyes.bussidmod",
+       "name_livery": "null",
+       "link_livery": "null",
+       "name_livery2": "null",
+       "link_livery2": "null"
+      },
+      {
+       "title": "Avante H9 VOLVO B11R",
+       "image": "https://modbussid.co.id/wp-content/uploads/2020/04/MOD-BUSSID-Avante-H9.jpeg",
+       "category": "bus",
+       "link_mods": "https://archive.org/download/gh-sdv-dop/VOLVO%20B11R%20FULL%20VARIASI.bussidmod",
+       "name_livery": "null",
+       "link_livery": "null",
        "name_livery2": "null",
        "link_livery2": "null"
       }

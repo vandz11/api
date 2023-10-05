@@ -27,7 +27,7 @@
   ],
   "Maps": [
     {
-      "name_map": "Forest Snow Road Map tes12",
+      "name_map": "Forest Snow Road Map",
       "view_map": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-04112022-174835.jpg?fit=1200%2C674&ssl=1",
       "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
     },
@@ -37,7 +37,7 @@
       "map_url": "https://drive.google.com/uc?export=download&id=1MqIP_QugsCO7wHaRC5PJB77rOMEmgX2Q"
     },
     {
-      "name_map": "TAWANGMANGU_V.1_SIANG",
+      "name_map": "TAWANGMANGU SIANG",
       "view_map": "https://i.ytimg.com/vi/U6tOlmA_JFg/maxresdefault.jpg",
       "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
     },
@@ -119,7 +119,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mitsubishi Eclipse GS-T 1997 Fast and Furious",
+      "title": "Fast and Furious",
       "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/09/SGCA_IMG-05092023-113325.jpeg?resize=1536%2C864&ssl=1",
       "category": "Mobil",
       "link_mods": "https://drive.google.com/uc?export=download&id=1qEfW9Lt4853JP2Fp4V34sAWQ8VpZoe6y",
@@ -213,6 +213,16 @@
       "image": "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Mobil-Toyota-GT68-McQueen.jpeg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Toyota%20GT86%20Mcqueen%20Car%20-%20Javastech.com.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bentley Continental GT Platinum",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/07/SGCA_IMG-02072023-004755.jpeg?fit=1600%2C900&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=17zNH1jCigdraM0AOVk_CTzYKA5FFQ6vP",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",

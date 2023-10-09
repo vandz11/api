@@ -55,57 +55,57 @@
   "Mods": [
     {
       "title": "bus thailand tipe 1",
-      "image": "file:///android_asset/Prime.webp",
+      "image": "https://i.ytimg.com/vi/wFNBHEYQ6ok/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/thai-tipe-7/bus%20thailand%20tipe%201.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "bus thailand tipe 2",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "image": "https://image.winudf.com/v2/image1/Y29tLmRpZGF4YnVzc2lkLmJ1c3RoYWlsYW5kX3NjcmVlbl8wXzE2NjUxMjI2NjBfMDI2/screen-0.webp?fakeurl=1&type=.webp",
       "category": "Bus",
       "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%202.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "bus thailand tipe 3",
-      "image": "file:///android_asset/Ultimate.webp",
+      "image": "https://play-lh.googleusercontent.com/BX9GhPdDn6BzRGGbCSp8-IiXzmXqmtXIwnJRjrhBmN6bbSZCvUcUkL937ESqjgv02g=w800-h500-rw",
       "category": "Bus",
       "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%203.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
       "title": "bus thailand tipe 4",
-      "image": "file:///android_asset/Ghaisan.webp",
+      "image": "https://i.ytimg.com/vi/DLDM9rNMLJ4/maxresdefault.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%204.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "bus thailand tipe 5",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "image": "https://i.ytimg.com/vi/Yoot_YrMBjs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAPnuvyZ5unXN9sYO6VuVoJb9rtng",
       "category": "Truk",
       "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%205.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "bus thailand tipe 6",
-      "image": "file:///android_asset/Skyline.webp",
+      "image": "https://i.ytimg.com/vi/exXxdlns7FA/hqdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%206.bussidmod",
       "name_livery": "null",
@@ -115,7 +115,7 @@
     },
     {
       "title": "bus thailand tipe 7",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "image": "https://image.winudf.com/v2/image1/Y29tLnB0ZGFuYXBpbmphbWFubHVuYWsudGhhaWxhbmRfc2NyZWVuXzBfMTY3MzI4MzMzNF8wNzM/screen-0.webp?fakeurl=1&type=.webp",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%207.bussidmod",
       "name_livery": "null",
@@ -125,7 +125,7 @@
     },
     {
       "title": "bus thailand tipe 8",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "image": "https://image.winudf.com/v2/image1/Y29tLmJ1cy50aGFpbGFuZF9zY3JlZW5fNF8xNjg5Nzg2NjYzXzA2OQ/screen-4.webp?fakeurl=1&type=.webp",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%208.bussidmod",
       "name_livery": "null",
@@ -135,7 +135,7 @@
     },
     {
       "title": "bus thailand tipe 9",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "image": "https://play-lh.googleusercontent.com/ieEVh1yIZXmoc-LHAk0WZ9cbbU-5uhhrJ_4Jhpdeyf3uxI4nS1bIlgWYLVuVCYxULQ=w750-h750",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%209.bussidmod",
       "name_livery": "null",
@@ -144,20 +144,70 @@
       "link_livery2": "null"
     },
     {
-      "title": "Truck Thailook ",
+      "title": "Truck Thailook",
       "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
+      "link_mods": "https://archive.org/download/bus_20231009/RAGASA%20THAILOOK%20%5BRMC%20CREATION%5D.bussidmod",
       "name_livery": "Pertamina",
       "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "bus thailand tipe 1",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "bus thailand tipe 10",
+      "image": "https://archive.org/download/bus_20231009/10-%E0%B8%A5%E0%B9%89%E0%B8%AD.bussidmod",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
+      "link_mods": "https://archive.org/download/bus_20231009/10-%E0%B8%A5%E0%B9%89%E0%B8%AD.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "truck canter thailook",
+      "image": "https://archive.org/download/bus_20231009/10-%E0%B8%A5%E0%B9%89%E0%B8%AD.bussidmod",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/Canter%20Drag.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand tipe 11",
+      "image": "https://archive.org/download/bus_20231009/10-%E0%B8%A5%E0%B9%89%E0%B8%AD.bussidmod",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/beer.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand tipe 12",
+      "image": "https://archive.org/download/bus_20231009/10-%E0%B8%A5%E0%B9%89%E0%B8%AD.bussidmod",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/busfree.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand tipe 13",
+      "image": "https://archive.org/download/bus_20231009/10-%E0%B8%A5%E0%B9%89%E0%B8%AD.bussidmod",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/bus%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%A2.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand tipe 14",
+      "image": "https://archive.org/download/bus_20231009/10-%E0%B8%A5%E0%B9%89%E0%B8%AD.bussidmod",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/%E0%B9%82%E0%B8%8A%E0%B8%84%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%8A.bussidmod",
       "name_livery": "Pertamina",
       "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
       "name_livery2": "null",

@@ -75,8 +75,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
+      "title": "Truck Peterbilt 379 Packer Muatan Mobil",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/09/SGCA_IMG-13092023-005244.jpeg?fit=1600%2C900&ssl=1",
       "category": "Truk",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Peterbilt%20379%20Packer%20Muatan%20Mobil%20cvt%20Hanzoo%20Mod.bussidmod",
       "name_livery": "Rosalia",
@@ -85,8 +85,8 @@
       "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
     },
     {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "title": "Scania Car Transporter Truck",
+      "image": "https://i.ytimg.com/vi/7vxR5PHTtLk/sddefault.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Scania_Car_Transporter_cvt_Trian_NdokO.bussidmod",
       "name_livery": "Deca Bak V1",
@@ -95,8 +95,8 @@
       "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
     },
     {
-      "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",
-      "image": "file:///android_asset/Skyline.webp",
+      "title": "Truck Hino Profia Tank",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Hino-Profia-Tank.jpeg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Truck%20Hino%20Profia%20Tank.bussidmod",
       "name_livery": "null",
@@ -105,8 +105,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "title": "Truck Kenworth T908 Trailer Pipe ",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/08/SGCA_IMG-04082023-002252.jpeg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Truck%20Kenworth%20T908%20Trailer%20Pipe%20cvt%20Hanzoo%20Mod.bussidmod",
       "name_livery": "null",
@@ -115,8 +115,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "title": "Hino Terpal Oren Full Muatan",
+      "image": "https://i.ytimg.com/vi/1cSJBY8x35o/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
       "name_livery": "null",
@@ -125,8 +125,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "title": "HINO 500 DUMP KALIMANTAN",
+      "image": "https://i.ytimg.com/vi/mVTtHeYludM/hqdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
       "name_livery": "null",
@@ -135,15 +135,25 @@
       "link_livery2": "null"
     },
     {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "Exavator",
+      "image": "https://i.ytimg.com/vi/ZiPk8TnY4OU/mqdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
       "name_livery": "Pertamina",
       "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
       "name_livery2": "null",
       "link_livery2": "null"
-    }
+    },
+    {
+      "title": "Muatan Motor",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Hino-500NG-Muatan-Motor.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    {
   ],
   "Audio": [
     {

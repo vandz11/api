@@ -49,28 +49,28 @@
       "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-10082021-162934.jpg?w=1200&ssl=1",
       "category": "Bus",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/GALEN%20BUSSID%20BY%20ZAAMO%20GAMTENG.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Hino 700 Angkut KAI",
       "image": "https://i.ytimg.com/vi/U0BgHQxtN10/sddefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Hino%20700%20Angkut%20KAI%20CC%20206%20by%20MAH%20Channel.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Truck Pertamina",
       "image": "https://i.ytimg.com/vi/7eNc5VKGmDg/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Mod%20Truck%20Hino%20Pertamina.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -79,20 +79,20 @@
       "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/09/SGCA_IMG-13092023-005244.jpeg?fit=1600%2C900&ssl=1",
       "category": "Truk",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Peterbilt%20379%20Packer%20Muatan%20Mobil%20cvt%20Hanzoo%20Mod.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Scania Car Transporter Truck",
       "image": "https://i.ytimg.com/vi/7vxR5PHTtLk/sddefault.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Scania_Car_Transporter_cvt_Trian_NdokO.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2":"null",
+      "link_livery2": "null"
     },
     {
       "title": "Truck Hino Profia Tank",
@@ -118,7 +118,7 @@
       "title": "Hino Terpal Oren Full Muatan",
       "image": "https://i.ytimg.com/vi/1cSJBY8x35o/maxresdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
+      "link_mods": "https://archive.org/download/dolly-variant-1/Truck%20Hino%20500NG%20Terpal%20Oren.bussidvehicle",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
@@ -128,7 +128,7 @@
       "title": "HINO 500 DUMP KALIMANTAN",
       "image": "https://i.ytimg.com/vi/mVTtHeYludM/hqdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
+      "link_mods": "https://archive.org/download/dolly-variant-1/HINO%20500%20DUMP%20KALIMANTAN%20SHARE.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
@@ -138,9 +138,9 @@
       "title": "Exavator",
       "image": "https://i.ytimg.com/vi/ZiPk8TnY4OU/mqdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "link_mods": "https://archive.org/download/dolly-variant-1/DOLLY%20VARIANT%201.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -148,13 +148,43 @@
       "title": "Muatan Motor",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Hino-500NG-Muatan-Motor.jpeg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
+      "link_mods": "https://archive.org/download/dolly-variant-1/MOD%20BUSSID%20Truck%20Hino%20500NG%20Muatan%20Motor.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
+    },
     {
-  ],
+      "title": "Truk Hino Selfloader Buldozer",
+      "image": "https://i.ytimg.com/vi/3thHNIAuJyA/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/Mod%20BUSSID%20Truk%20Hino%20Selfloader%20Buldozer.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "hino bak kayu",
+      "image": "https://i.ytimg.com/vi/Q0ssaX_F8DU/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/hino%20lohan%20purwo%20logistic%20cvt%20WSP%20bak%20kayu.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "hino bak kayu",
+      "image": "https://i.ytimg.com/vi/Q0ssaX_F8DU/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/hino%20lohan%20purwo%20logistic%20cvt%20WSP%20bak%20kayu.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ]
   "Audio": [
     {
       "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",

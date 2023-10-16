@@ -27,29 +27,14 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "pagaralam sumatra",
+      "view_map": "https://i.ytimg.com/vi/M83ScfHvo5s/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1x14VuuDCHWzgy86eCjIdmbuT1ALIIB0k"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
-    },
-    {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "Forest Snow Road",
+      "view_map": "https://i.ytimg.com/vi/vO-CU2w80-8/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
     }
   ],
   "Mods": [
@@ -68,8 +53,8 @@
       "image": "https://i.ytimg.com/vi/JC5fmBGO4Ps/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/fuso-kalimantan-2-ad-iskn/FUSO%20TG%20BALAK.bussidmod",
-      "name_livery": "null"
-      "link_livery": "null"
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -134,22 +119,32 @@
       "link_livery2": "null"
     },
     {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "title": "ACC FIGHTER HD 220 PS BAK SAWIT",
+      "image": "https://i.ytimg.com/vi/9XnORY1kRJo/maxresdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
+      "link_mods": "https://archive.org/download/acc-fighter-hd-220-ps-bak-sawit-dop-laba/ACC%20FIGHTER%20HD%20220%20PS%20BAK%20SAWIT%20DOP%20LABA.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "Mod Fuso Tribal Bak Sumatra",
+      "image": "https://i.ytimg.com/vi/woTcl3RDQ_4/maxresdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "link_mods": "https://archive.org/download/acc-fighter-hd-220-ps-bak-sawit-dop-laba/Mod%20Fuso%20Tribal%20Bak%20Sumatra.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Angkut Truk dan Angkot",
+      "image": "https://i.ytimg.com/vi/J-Yb-AcyDjw/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/acc-fighter-hd-220-ps-bak-sawit-dop-laba/Scania%20112H%20Angkut%20Truk%20dan%20Angkot%20by%20wei%20chun.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     }

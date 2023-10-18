@@ -176,9 +176,49 @@
     },
     {
       "title": "Angkut Helicopter",
-      "image": "hhttps://media.hobigame.id/2023/02/mod-bussid-man-tgs-18-480-4x4-2-hobigame.jpg",
+      "image": "https://media.hobigame.id/2023/02/mod-bussid-man-tgs-18-480-4x4-2-hobigame.jpg",
       "category": "Mobil",
       "link_mods": "https://drive.google.com/uc?export=download&id=1UYfyNadG4wdbxKL_UXRg2zyKI7kLPAzg",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Muatan batubara",
+      "image": "https://i.ytimg.com/vi/YQwPtYoBBlw/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/Hino%20Dump%20Muatan%20batubara%20by%20Garasi%20SMC.bussidmod",
+      "name_livery": "Hino Muatan Batu Bara",
+      "link_livery": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/Predator%20by%20Garasi%20SMC.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "ISUZU NKR Overload",
+      "image": "https://i.ytimg.com/vi/JBYVeMwxwZQ/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/MOD%20NKR%20OM%20GHASTON%20MUATAN%20BY%20DAENG%20MUANG%20ID.bussidmod",
+      "name_livery": "Tubles_OmGhaston",
+      "link_livery": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/Tubles_OmGhaston11-04-07.57.36.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Full Muatan",
+      "image": "https://i.pinimg.com/736x/74/b7/5d/74b75dbebeaf6c5c7dc7564918c35f5e.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/NMR71%20Levis%20Gayor.bussidmod",
+      "name_livery": "ISUZU NMR 71 Full Muatan",
+      "link_livery": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/PicsArt_11-30-10.31.28.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fuso Angkut Kayu",
+      "image": "https://i.ytimg.com/vi/GpXhOumMwwE/hqdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/fuso-balak-ragil-namkurmoding-v1%20all%20anim.bussidvehicle",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",

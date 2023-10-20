@@ -27,9 +27,9 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "TAWANGMANGU",
+      "view_map": "https://i.ytimg.com/vi/g4-5J38cNjU/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
     },
     {
       "name_map": "Kelok 18 by Fajri GMP",
@@ -65,7 +65,7 @@
     },
     {
       "title": "Isuzu D-MAX",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "image": "https://i.ytimg.com/vi/bg6zLoEnXZU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCeZLbV9uV1ZcVjNlQUiTDXgJ4z-Q",
       "category": "Bus",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/dmax%20thailook.bussidmod",
       "name_livery": "null",
@@ -84,18 +84,18 @@
       "link_livery2": "null"
     },
     {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
+      "title": "Isuzu D-Max Series",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/03/SGCA_IMG-02032021-140120.jpg?w=1200&ssl=1",
       "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+      "link_mods": "https://drive.google.com/uc?export=download&id=1p1VZfnBbGSecwqUTZZQWWgKunzaE5oXY",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Isuzu 2",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "image": "https://i.ytimg.com/vi/BF1S9EMgGo0/maxresdefault.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%202.bussidmod",
       "name_livery": "null",
@@ -105,7 +105,7 @@
     },
     {
       "title": "Isuzu D-MAX 191",
-      "image": "file:///android_asset/Skyline.webp",
+      "image": "https://i.ytimg.com/vi/wfS1IV2m4bg/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%20dmax%20191.bussidmod",
       "name_livery": "null",
@@ -125,7 +125,7 @@
     },
     {
       "title": "isuzu V2",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "image": "https://i.ytimg.com/vi/9d13X-6FbAE/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%20dmax%20v2.bussidmod",
       "name_livery": "null",
@@ -135,7 +135,7 @@
     },
     {
       "title": "Isuzu V4",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "image": "https://i.ytimg.com/vi/jipR_7N0URA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC7agUxlUT2qgk-NcgSisxiLtdeUQ",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%20mux%20v4.bussidmod",
       "name_livery": "null",
@@ -148,18 +148,18 @@
       "image": "https://i.ytimg.com/vi/CCE-1XNBuTs/sddefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%20mux.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
       "title": "thailook v3",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "image": "https://i.ytimg.com/vi/9A7f1CmwUgk/mqdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%20thailook%20v3.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -185,7 +185,7 @@
     },
     {
       "title": "Isuzu D-MAX V2",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI5vhJ56LjdMdtb7Dt7GHgcY1OpiUpuIRdGn5aNA3UgjqRh7sImu7j_vJ3653TDGU-X-s&usqp=CAU",
+      "image": "https://i.ytimg.com/vi/dq0waCwffAU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBRwsUes1GTaJP1dgdr53wTV3XLmQ",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/%E0%B8%A1%E0%B8%B4%E0%B8%A7X%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%AA.bussidmod",
       "name_livery": "null",

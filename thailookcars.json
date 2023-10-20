@@ -55,7 +55,7 @@
   "Mods": [
     {
       "title": "Hilux Revo",
-      "image": "file:///android_asset/Prime.webp",
+      "image": "https://i.ytimg.com/vi/Pa_8qXHhSWk/sddefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/REVO%20%E0%B8%82%E0%B8%B2%E0%B8%A7.bussidmod",
       "name_livery": "null",
@@ -75,7 +75,7 @@
     },
     {
       "title": "Hilux Muatan Over",
-      "image": "file:///android_asset/Ultimate.webp",
+      "image": "https://i.ytimg.com/vi/gURFzXfFyn4/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/hilux%20muatan%20over.bussidmod",
       "name_livery": "null",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Isuzu Thailook",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "image": "https://i.ytimg.com/vi/8dIiIQdwP_w/sddefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%20dmax%20thailook.bussidmod",
       "name_livery": "null",
@@ -145,11 +145,51 @@
     },
     {
       "title": "isuzu Mux",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "image": "https://i.ytimg.com/vi/CCE-1XNBuTs/sddefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%20mux.bussidmod",
       "name_livery": "Pertamina",
       "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "thailook v3",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/isuzu-thailook-v-3/isuzu%20thailook%20v3.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Nissan Navara",
+      "image": "https://i.ytimg.com/vi/Pa_8qXHhSWk/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/isuzu-thailook-v-3/nissan%20navara.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "ISUZU Thailook v4",
+      "image": "https://i.ytimg.com/vi/CNeaw8-hphM/hqdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/isuzu-thailook-v-3/%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%84%20%E0%B8%84%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%88%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%AA%282%29.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Isuzu D-MAX V2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI5vhJ56LjdMdtb7Dt7GHgcY1OpiUpuIRdGn5aNA3UgjqRh7sImu7j_vJ3653TDGU-X-s&usqp=CAU",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/isuzu-thailook-v-3/%E0%B8%A1%E0%B8%B4%E0%B8%A7X%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%AA.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     }

@@ -27,31 +27,22 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "green_mars",
+      "view_map": "https://i.ytimg.com/vi/15FJVq9zADY/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1FFWa-yS_YdkMt0i6cxEnTNNIkEyeQzg9"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
+      "view_map": "https://i.ytimg.com/vi/Zk49RugkVng/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/MOD%20MAP%20BLUSUKAN%20DI%20WONOSOBO.bussidmod"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "Map Jalur Maut Papua",
+      "view_map": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggdzpzs-hHnnFIaxxyqzn5ZNSRygoyMM9zvjDuTaamdB60YKLkazeEZxLqK0LRw42CfhTbu504_fGHs0YZkQxDEe9bYlUzfN_m2q0cC031ucK2QA5aWj269_m9sc6j1zaFQPEUbLqoVKATbbA_QRBUba-xzyLTK_RlvROzZzL2k6INxC4H5hwt4rdc/w1200-h630-p-k-no-nu/Photo_220917094036.jpeg",
+      "map_url": "https://archive.org/download/mod-map-jalur-maut/mod%20map%20jalur%20maut.bussidmod"
     }
-  ],
+   
+   ],
   "Mods": [
     {
       "title": "STJ DREAM COACH",
@@ -94,18 +85,18 @@
       "link_livery2": "null"
     },
     {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "title": "KIDS PANDA 2",
+      "image": "https://i.ytimg.com/vi/ZR2es31YP-k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCNPRlCG573hzGgcLFVDhPSNWK_IQ",
       "category": "Truk",
       "link_mods": "https://archive.org/download/kp-fs-it/KP%20FS%20IT.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
+      "name_livery": "KIDS PANDA",
+      "link_livery": "https://archive.org/download/kp-fs-it/KIDS%20PANDA%20BY%20DJ%20OPANK.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",
-      "image": "file:///android_asset/Skyline.webp",
+      "title": "SR2 XHD",
+      "image": "https://i.ytimg.com/vi/kCigcrjCN9g/hqdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/kp-fs-it/SR2%20XHD.bussidmod",
       "name_livery": "STJ MAURO SR2",
@@ -114,8 +105,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "title": "STJ Anno VOYAGER",
+      "image": "https://i.ytimg.com/vi/FASrgk3M-4Y/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/kp-fs-it/UHD%20VOYAGER.bussidmod",
       "name_livery": "STJ Anno JB3 UHD",
@@ -150,6 +141,26 @@
       "link_mods": "https://archive.org/download/tuan-muda-bussid/REXUS_MERCY.bussidmod",
       "name_livery": "REXUS_MERCY",
       "link_livery": "https://archive.org/download/po-haryanto-090-firnanda-rexus-hc-blahbloh/Po%20Haryanto%20090%20Firnanda%20Rexus%20HC%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "STJ MERCY",
+      "image": "https://i.pinimg.com/564x/11/5a/6a/115a6a8f39f8bfb7cff7b54ae80cf936.jpg",
+      "category": "Bus",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1vlHFnM9btYrUfNvheHuNZFvCe8Wmo0Dz",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "STJ Mercy",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/06/MOD-BUSSID-JB3-Mercedes-Benz.jpeg",
+      "category": "Bus",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1ryNGYPGjYOoOIe9pEZGKB4wY6eOpJIvH",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     }

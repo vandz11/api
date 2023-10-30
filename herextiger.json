@@ -27,30 +27,21 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "Map Sirkuit Balap",
+      "view_map": "https://i.ytimg.com/vi/98OnE5e4we4/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1MqIP_QugsCO7wHaRC5PJB77rOMEmgX2Q"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "TAWANGMANGU SIANG",
+      "view_map": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/06/SGCA_IMG-28062023-062948.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.ytimg.com/vi/ZEf5Js83zqY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/full%20jalur%20khusus%20ofroad.bussidmod"
     }
+    
   ],
   "Mods": [
     {
@@ -115,7 +106,7 @@
     },
     {
       "title": "drag herex GL",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "image": "https://i.ytimg.com/vi/cmW8U1wATmY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvAd0INZYv0_gLUBg9TBFZfdbdIQ",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/tiger-pangeran-by-rega-x-gamng-safefilek-u/MOD%20BUSSID%20MOTOR%20DRAG%20%20Share%20mod%20bussid%20motor%20drag%20herex%20GL.bussidmod",
       "name_livery": "null",
@@ -158,6 +149,26 @@
       "image": "https://i.ytimg.com/vi/5jGwUiCVaWE/sddefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/tiger-pangeran-by-rega-x-gamng-safefilek-u/TIGER%20PANGERAN%20BY%20REGA%20X%20GAMNG%20%28SafefilekU%29.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "SATRIA FU BUSSID",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Suzuki-Satria-FU-Drag.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1BMT5YFs8ZzdhJS4OsATrtq3BZMH_MIVu",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "MOTOR CBR600 RR",
+      "image": "https://www.gtainside.com/downloads/picr/2017-09/1508935462_cbr600.50.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/aerox-hedon-v-2-by-rxg/MOD%20MOTOR%20CBR600RR%20BY%20BASSAMAZUPER_AZUMODS%20%5Bwww.modbussidterbaru.com%5D.bussidvehicle",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",

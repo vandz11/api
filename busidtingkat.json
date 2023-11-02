@@ -58,28 +58,28 @@
       "image": "https://i.ytimg.com/vi/GJlovrfaifM/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/avante-d-2/1.%20JB2%2B%20SDD%20SHARE%20BY%20JODS%20TV.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Bus Medali Mas SR2 Double Decker",
       "image": "https://i.ytimg.com/vi/3ZvQ9SEGqg0/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/avante-d-2/6.%20SR2%20XDD.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Borlindo SR2 Double Decker",
       "image": "https://i.ytimg.com/vi/GhttAg5QY1k/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/avante-d-2/8.%20SR2%20XDD.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -90,18 +90,18 @@
       "link_mods": "https://archive.org/download/avante-d-2/AVANTE%20D2.bussidmod",
       "name_livery": "AVANTE D2 Harjay",
       "link_livery": "https://archive.org/download/avante-d-2/AVANTE%20D2%20Harjay.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Pandawa 87 Jetbus 3+ SDD Voyager",
       "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
       "category": "Truk",
       "link_mods": "https://archive.org/download/avante-d-2/JB3%2B%20SDD%20VOYAGER%20SHARE%20BY%20JODS%20TV.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
+      "name_livery": "Pandawa SDD",
+      "link_livery": "https://archive.org/download/avante-d-2/Pandawa%20SDD%20by%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "scania trans jawa agra mas",
@@ -124,18 +124,18 @@
       "link_livery2": "null"
     },
     {
-      "title": "SR2_Double_Decker_by_ZTOM",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "title": "SR2 Double Decker",
+      "image": "https://i.ytimg.com/vi/i9RPZ1jb9a8/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/avante-d-2/SR2_Double_Decker_by_ZTOM.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
+      "name_livery": "SAN_SR2doubledecker",
+      "link_livery": "https://archive.org/download/avante-d-2/SAN_SR2doubledecker.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "update sdd ztom WINGLET + HIDROLIK",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "title": "agra mas JB2 SDD",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/10/SGCA_IMG-07102022-190103.jpg?fit=1200%2C675&ssl=1",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/avante-d-2/update%20sdd%20ztom%20WINGLET%20%2B%20HIDROLIK.bussidmod",
       "name_livery": "null",
@@ -144,12 +144,52 @@
       "link_livery2": "null"
     },
     {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "Legacy SR2 R66",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-SR2-Facelift-HD-Prime.jpeg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "link_mods": "https://archive.org/download/xhd-laksana-alcoa-ceper/SR2%2BECE%2BR66%2Bhino%2Bstandart.bussidmod",
+      "name_livery": "Legacy Hitam SR2 R66",
+      "link_livery": "https://archive.org/download/xhd-laksana-alcoa-ceper/STJ%20Hitam%20SR2%20cvt%20RSM%20by%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "LegacyAlcoa",
+      "image": "https://i.ytimg.com/vi/Wpt0OWMaYG8/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/xhd-laksana-alcoa-ceper/XHD%20LAKSANA%20ALCOA%20CEPER.bussidmod",
+      "name_livery": "PPP SR 2 XHD TRONTON",
+      "link_livery": "https://archive.org/download/xhd-laksana-alcoa-ceper/PPP%20SR%202%20XHD%20TRONTON%20BY%20PRA.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tronton dop",
+      "image": "https://i.pinimg.com/736x/fb/c9/2f/fbc92faa9e02c70134e70fcfc2bc1e13.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/xhd-laksana-alcoa-ceper/sr2hd%2Bno%2Bdop.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tunggal Jaya Moon Eyes",
+      "image": "https://i.ytimg.com/vi/_fYfDqnnkO4/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/Tunggal%20Jaya%20Moon%20Eyes.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Avante H9 VOLVO B11R",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/04/MOD-BUSSID-Avante-H9.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/gh-sdv-dop/VOLVO%20B11R%20FULL%20VARIASI.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     }

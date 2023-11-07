@@ -27,85 +27,75 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "Map Sirkuit Balap"",
+      "view_map": "https://assets.karyakarsa.com/post-image-6264872b44904.jpeg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1MqIP_QugsCO7wHaRC5PJB77rOMEmgX2Q"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "pagar alam sumatra"",
+      "view_map": "https://i.ytimg.com/vi/jLZIIBMobGI/sddefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1x14VuuDCHWzgy86eCjIdmbuT1ALIIB0k"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "Forest Snow Road",
+      "view_map": "https://i.ytimg.com/vi/vO-CU2w80-8/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
     }
   ],
   "Mods": [
     {
       "title": "CB 100",
-      "image": "file:///android_asset/Prime.webp",
+      "image": "https://i.ytimg.com/vi/fou8G9n8Rbw/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/CB%20ICIKIWIRR%20CVT%20BY%20RXG.bussidmod",
       "name_livery": "CB1OO v1",
       "link_livery": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/CB%20100.jpg",
-      "name_livery2": "CB1OO v1",
+      "name_livery2": "CB1OO v2",
       "link_livery2": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/CB%20BUCIN.jpg"
     },
     {
       "title": "Honda Astrea Legenda V2",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/11/MOD-BUSSID-Motor-Honda-Astrea-Legenda.jpeg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/Honda%20Astrea%20Legenda%20V2%20Standing%20by%20AzuMods%20%281%29.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Honda C70 V2 Speed Kencang",
-      "image": "file:///android_asset/Ultimate.webp",
+      "image": "https://i.ytimg.com/vi/LeOkBs7Nov8/sddefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/Honda%20C70%20V2%20Speed%20Kencang%20by%20AzuMods.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
       "title": "Honda PCX 150cc Thailook",
-      "image": "file:///android_asset/Ghaisan.webp",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/11/MOD-BUSSID-Motor-Honda-PCX.jpeg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/Honda%20PCX%20150cc%20Thailook%20Style%20by%20MAH%20Channel.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "YAMAHA FIZ R",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "image": "https://i.ytimg.com/vi/5jes4jIOpYc/hqdefault.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/MOD%20BUSSID%20YAMAHA%20FIZ%20R.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "MOD HAYABUSA 1300CC",
-      "image": "file:///android_asset/Skyline.webp",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/07/Motor-HAYABUSA-1300CC.jpeg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/MOD%20HAYABUSA%201300CC%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
       "name_livery": "null",
@@ -115,7 +105,7 @@
     },
     {
       "title": "JUPITER Z1 BURHAN",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "image": "https://i.pinimg.com/736x/94/fe/d9/94fed9613d941de3e8a7b80e88debb13.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/MOD%20JUPITER%20Z1%20BURHAN%20BUSSID%20FREE%20BY%20AZUMODS%20%281%29.bussidmod",
       "name_livery": "null",
@@ -125,7 +115,7 @@
     },
     {
       "title": "MX KING 150",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "image": "https://i.pinimg.com/736x/40/18/d4/4018d4b5d1e9eec880d9397e009e4484.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/MOD%20MX%20KING%20150%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
       "name_livery": "null",
@@ -135,7 +125,7 @@
     },
     {
       "title": "R1M BAN CACING SPEED",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "image": "https://i.pinimg.com/736x/a9/c0/a0/a9c0a0c18d08ac7493c04425d3cd6da0.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/MOD%20R1M%20BAN%20CACING%20SPEED%20ASLI%20V2%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
       "name_livery": "null",
@@ -145,41 +135,81 @@
     },
     {
       "title": "MOD SUPRA BAPAK",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/08.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/MOD%20SUPRA%20BAPAK%20COSTUM%20LIVERY%20BY%20RXG.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "VARIO 125",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "VARIO 125 RANGKA ESAF",
+      "image": "https://i.ytimg.com/vi/evHocacFZm4/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/MOD%20VARIO%20125%20RANGKA%20ESAF%20CVT%20AZUMODS.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
       "title": "HONDA CRF",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "image": "https://i.ytimg.com/vi/_6WnnGhz68U/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/Mod%20Honda%20CRF%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "RX King",
+      "image": "https://modbussidterbaru.id/wp-content/uploads/2023/04/Mod-Motor-Drag-RX-King-Terbaru.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/RXKing-mod-bussid_imeandroid_cvt_by_Totti_v1.3.bussidmod",
       "name_livery": "Pertamina",
       "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "RX King",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "KLX KAWASAKI 2021",
+      "image": "https://i.ytimg.com/vi/SAWVYe3LST0/sddefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://archive.org/download/cb-icikiwirr-cvt-by-rxg/RXKing-mod-bussid_imeandroid_cvt_by_Totti_v1.3.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "link_mods": "https://archive.org/download/mod-kawasaki-z-800-v-1-boncengan-speed-kencang/KLX%20KAWASAKI%202021%20BY%20MAH%20CHANNEL.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "KAWASAKI Z800",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Motor-Kawasaki-Z800-1.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mod-kawasaki-z-800-v-1-boncengan-speed-kencang/MOD%20KAWASAKI%20Z800%20V1%20BONCENGAN%20SPEED%20KENCANG.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Honda Beat",
+      "image": "https://modbussidterbaru.id/wp-content/uploads/2023/02/Mod-Motor-Honda-Beat-Original.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mod-kawasaki-z-800-v-1-boncengan-speed-kencang/Mod%20Honda%20Beat%20by%20Azumods.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Motor PCJ 600",
+      "image": "https://cs2.gtaall.com/screenshots/4dc09/2016-01/original/6eaf97602f5bc03d800e888046af3cfa91bde6c3/315276-gta-sa-2016-01-07-15-06-55-29.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mod-kawasaki-z-800-v-1-boncengan-speed-kencang/Mod%20Motor%20PCJ%20600%20.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     }

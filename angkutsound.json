@@ -1,19 +1,19 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
+      "select_main_ads": "null"
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"5514057d49146d54",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -27,29 +27,19 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
+      "view_map": "https://i.ytimg.com/vi/SaIvVtFKTvk/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/MOD%20MAP%20BLUSUKAN%20DI%20WONOSOBO.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
+      "name_map": "map tambang",
+      "view_map": "https://i.ytimg.com/vi/M4PU1fSRhlo/sddefault.jpg?v=631df7ce",
       "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.ytimg.com/vi/ZEf5Js83zqY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/full%20jalur%20khusus%20ofroad.bussidmod"
     }
   ],
   "Mods": [

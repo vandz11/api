@@ -27,35 +27,25 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "jalur puncak 1",
+      "view_map": "https://i.ytimg.com/vi/wrKfezAof_0/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "Map Jalur Maut Papua",
+      "view_map": "https://i.ytimg.com/vi/c041MF6tMak/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-jalur-maut/mod%20map%20jalur%20maut.bussidmod"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "bukit bintang",
+      "view_map": "https://i.ytimg.com/vi/H8ZAQUU_6sY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/bukit%20bintang%20amdroid93.bussidmod"
     }
   ],
   "Mods": [
     {
-      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
-      "image": "file:///android_asset/Prime.webp",
+      "title": "Truck Hino 500 Trailer",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Hino-500-Trailer.jpeg",
       "category": "Bus",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
       "name_livery": "PO Haryanto",
@@ -64,8 +54,8 @@
       "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
     },
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "title": "SCANIA R580 Hanya Kepala",
+      "image": "https://i.pinimg.com/564x/be/82/10/be8210672d1e1fedbdb12873ef4ad5aa.jpg",
       "category": "Bus",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
       "name_livery": "Rajawali",
@@ -74,8 +64,8 @@
       "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
     },
     {
-      "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
-      "image": "file:///android_asset/Ultimate.webp",
+      "title": "Hino 700 Chassis Flat",
+      "image": "https://i.pinimg.com/564x/05/2a/89/052a893d6ad7976eb65b2cc77c221f55.jpg",
       "category": "Bus",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/SR3.bussidmod",
       "name_livery": "Rosalia Indah",
@@ -84,8 +74,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
+      "title": "C700 Tangki Tanker",
+      "image": "https://i.ytimg.com/vi/Q9gB_nr2IKg/hqdefault.jpg",
       "category": "Truk",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
       "name_livery": "Rosalia",
@@ -94,8 +84,8 @@
       "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
     },
     {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "title": "BUSSID Official Bisa Belok",
+      "image": "https://i.pinimg.com/564x/ec/b4/c3/ecb4c36504c6deed0bbba6d70a8b2924.jpg",
       "category": "Truk",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
       "name_livery": "Deca Bak V1",
@@ -104,8 +94,8 @@
       "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
     },
     {
-      "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",
-      "image": "file:///android_asset/Skyline.webp",
+      "title": "Dual Face Tangki",
+      "image": "https://i.ytimg.com/vi/alaaX6FYQT0/sddefault.jpg",
       "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
       "name_livery": "null",
@@ -114,8 +104,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "title": "Original BUSSID Bisa Belok",
+      "image": "https://i.pinimg.com/564x/b7/54/a4/b754a4da9bed014db8e639f6d4432fcd.jpg",
       "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.bussidmod",
       "name_livery": "null",
@@ -124,8 +114,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "title": "500 FG Trailer Maersk",
+      "image": "https://i.pinimg.com/564x/aa/00/52/aa00525c12e3d5452f16ae0cc95abdb7.jpg",
       "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
       "name_livery": "null",
@@ -134,8 +124,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "title": "Fuso Gandeng",
+      "image": "https://i.ytimg.com/vi/QKCw0t8M2uE/maxresdefault.jpg",
       "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
       "name_livery": "null",
@@ -144,8 +134,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "Trailer Volv FMX",
+      "image": "https://i.pinimg.com/564x/da/2a/4a/da2a4a2e186c236739da1cce1a5845b9.jpg",
       "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
       "name_livery": "Pertamina",

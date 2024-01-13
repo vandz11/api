@@ -34,7 +34,7 @@
     {
       "name_map": "BROADFROOD",
       "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221008_103019_9202-1024x574.jpg.webp",
-      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/ROADFROOD.bussidmod",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/ROADFROOD.bussidmod"
     },
     {
       "name_map": "bukit bintang",
@@ -140,20 +140,21 @@
     },
     {
       "title": "bris trans tuan muda",
-      "image": "https://i.ytimg.com/vi/cOEcu0CivFY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3hKzHhzXpiTcazzeIfEdoPv4_dA",
+      "image": "https://i.ytimg.com/vi/cOEcu0CivFY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3hKzHhzXpiTcazzeIfEdoPv4_dA.jpeg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/tuan-muda-bussid/BT%20TUAN%20MUDA.bussidmod",
       "name_livery": "bris trans tuan muda",
       "link_livery": "https://archive.org/download/bris-trans-tuan-muda-banner-jb-3-kp-projects-blahbloh/Bris%20Trans%20Tuan%20Muda%20Banner%20JB3%20KP%20Projects%20Blahbloh.png",
       "name_livery2": "bris trans tuan muda v2",
       "link_livery2": "https://archive.org/download/bris-trans-tuan-muda-banner-jb-3-kp-projects-blahbloh/Bris%20Trans%20Tuan%20Muda%20JB3%20KP%20Projects%20Blahbloh.png"
+    },
     {
-      "title": "JB3 “Putra Gresik",
+      "title": "JB3 Putra Gresik",
       "image": "https://i.ytimg.com/vi/eLGcr1ALxPk/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/tuan-muda-bussid/DP%20PUTRA%20GRESIK.bussidmod",
       "name_livery": "null",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },

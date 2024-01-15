@@ -1,19 +1,19 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
+      "select_main_ads": "null",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_natives":"f26eaf0eb968bfd4",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"10ec28a9ceed6e41",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -27,129 +27,124 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
+      "view_map": "https://i.ytimg.com/vi/SaIvVtFKTvk/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/MOD%20MAP%20BLUSUKAN%20DI%20WONOSOBO.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.ytimg.com/vi/ZEf5Js83zqY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/full%20jalur%20khusus%20ofroad.bussidmod"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+      "name_map": "Map Kelok Jalan-Rusak",
+      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-Map-Kelok-44-Jalan-Rusak.webp",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/mod%20map%20blusukan.bussidmod"
     },
     {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "bukit bintang",
+      "view_map": "https://i.ytimg.com/vi/H8ZAQUU_6sY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/bukit%20bintang%20amdroid93.bussidmod"
     }
   ],
   "Mods": [
     {
-      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
-      "image": "file:///android_asset/Prime.webp",
+      "title": "Karnataka_gramantara",
+      "image": "https://i.ytimg.com/vi/XCG1ES1hvpA/hqdefault.jpg",
       "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-    },
-    {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-    },
-    {
-      "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
-      "image": "file:///android_asset/Ultimate.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/SR3.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "link_mods": "https://archive.org/download/karnataka_SRTC_bus_mod/Karnataka_gramantara_sarige_Cb_project.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
+      "title": "karnataka_SRTC",
+      "image": "https://i.ytimg.com/vi/XjX7qROsMyU/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/karnataka_SRTC_bus_mod/karnataka_SRTC_bus_mod.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "karnataka_kbsx",
+      "image": "https://i.ytimg.com/vi/YlwsxNSJpwo/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/karnataka_SRTC_bus_mod/karnataka_rtc_by_team_kbs.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "NEW_PRAKASH_GRAND_BMR",
+      "image": "https://play-lh.googleusercontent.com/-P2jD41hswuUcPMgnGFhx2tcaTDYOJksLLDv0_Fz8nWPjbS-YSo_SJ-o0SrbqC1rGriu",
       "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+      "link_mods": "https://archive.org/download/tk-zed-one-bc-v-1/NEW_PRAKASH_GRAND_BMR_.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "title": "ap-GRTx",
+      "image": "https://i.ytimg.com/vi/gXwCuSyKoCM/mqdefault.jpg",
       "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
-    },
-    {
-      "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",
-      "image": "file:///android_asset/Skyline.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
+      "link_mods": "https://archive.org/download/tk-zed-one-bc-v-1/ap-tsrtc_by_CjProject.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "title": "MTC_ROOD",
+      "image": "https://play-lh.googleusercontent.com/xmPf7Wt8suVSym_LI9KB8vsFiSS9ly2WPxTFVkujT__xCiYR5VHz4EFAZPWtQyW-AQ=w750-h750",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.bussidmod",
+      "link_mods": "hhttps://archive.org/download/tk-zed-one-bc-v-1/TamilNadu%20MTC%20Red%20Bus.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "title": "KRP_OKT",
+      "image": "https://play-lh.googleusercontent.com/dUpKEJXgzOAPL0bu-6pUAbKODb-gdmNk2evLrcKT_pLrP9xHCYyLwbkPmycsXbyV7zqR",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
+      "link_mods": "https://archive.org/download/tk-zed-one-bc-v-1/TK_ZED_ONE_BC_V1_.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "title": "Maruthi OTJ",
+      "image": "https://i.ytimg.com/vi/1iuMo3Ankwo/hqdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
+      "link_mods": "https://archive.org/download/tk-zed-one-bc-v-1/Maruthi_v2_AKBDA.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "LUXURA",
+      "image": "https://i.ytimg.com/vi/_gpExM75zZo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCda-HMBdeXECjetgM7y02Oo9qLWQ",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "link_mods": "https://archive.org/download/tk-zed-one-bc-v-1/KONDODY_LUXURA_SDLX_VIKING_12M_BS4_V1.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "SD DOP",
+      "image": "https://image.winudf.com/v2/image1/Y29tLmthcm5hdGFrYS50cmFmZmljLm1vZF9zY3JlZW5fMF8xNjc4ODQ4NTM1XzAwOQ/screen-0.webp?fakeurl=1&type=.webp",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/tk-zed-one-bc-v-1/JB3%2B%20SDD%20Versi%20Dop%20-%20Javastech.com.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     }

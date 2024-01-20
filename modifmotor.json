@@ -2,18 +2,18 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads": "APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"",
+      "main_ads_intertitial":"null",
       "main_ads_natives":"",
-      "backup_ads_natives":"",
+      "backup_ads_natives":"2e56fdbae063eeae",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_intertitial":"72b7dae569f1c5d3",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -27,14 +27,14 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "Map Jalur Maut Papua",
+      "view_map": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggdzpzs-hHnnFIaxxyqzn5ZNSRygoyMM9zvjDuTaamdB60YKLkazeEZxLqK0LRw42CfhTbu504_fGHs0YZkQxDEe9bYlUzfN_m2q0cC031ucK2QA5aWj269_m9sc6j1zaFQPEUbLqoVKATbbA_QRBUba-xzyLTK_RlvROzZzL2k6INxC4H5hwt4rdc/w1200-h630-p-k-no-nu/Photo_220917094036.jpeg",
+      "map_url": "https://archive.org/download/mod-map-jalur-maut/mod%20map%20jalur%20maut.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "Muddy Off-Road",
+      "view_map": "https://i.ytimg.com/vi/7jt_rPn-IC4/sddefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=15CA6OUln13XRJR47qD5ayt--2GeoI9lw"
     }
   ],
   "Mods": [
@@ -53,8 +53,8 @@
       "image": "https://modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Motor-Honda-CBR-150R-1.jpeg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/5-honda-c-70-v-1-standar-by-azu-mods/2Honda%20CBR%20150R%20V1%20Velg%20Standar%20by%20AzuMods.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
+      "name_livery": "efef",
+      "link_livery": "https://archive.org/download/kp-fs-it/STJ%20Draka%20Dream%20Coach%20by%20Blahbloh.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },

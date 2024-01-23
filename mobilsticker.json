@@ -124,32 +124,32 @@
       "link_livery2": "null"
     },
     {
-      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "title": "Mitsubishi Strada L200",
+      "image": "https://i.ytimg.com/vi/VVvdVtBM9Hs/maxresdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
+      "link_mods": "https://archive.org/download/l200_20240122/l200.bussidmod",
+      "name_livery": "Strada L200",
+      "link_livery": "https://archive.org/download/l200_20240122/body02.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "pajeroFL_trailer",
+      "image": "https://i.ytimg.com/vi/24Wedcfpgtw/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/l200_20240122/pajeroFL_trailer.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "title": "chevrolet full sticker",
+      "image": "https://1.bp.blogspot.com/-TEVbOPN6k3Y/YFaX8QFLq5I/AAAAAAAAFVQ/eDmbG68cOoYU-86IJ5BPCYgRxeyyOzWnACLcBGAsYHQ/s977/Photo_210320092953.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
+      "link_mods": "https://archive.org/download/l200_20240122/trailblazer.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
       "name_livery2": "null",
       "link_livery2": "null"
     }

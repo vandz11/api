@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ALIEN-M",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "null",
-      "main_ads_intertitial":"null",
+      "main_ads_banner": "ca-app-pub-7195723996382748/2879220254",
+      "main_ads_intertitial":"ca-app-pub-7195723996382748/1203176505",
       "main_ads_natives":"",
       "backup_ads_natives":"3bdc0f2b975d93e9",
       "backup_ads_banner":"",

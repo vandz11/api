@@ -1,0 +1,231 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "null",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"e30831f011058e0d",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"e04c3bc38f6bec2d",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "jalur puncak 1",
+      "view_map": "https://i.ytimg.com/vi/wrKfezAof_0/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
+    },
+    {
+      "name_map": "Map Jalur Maut Papua",
+      "view_map": "https://i.ytimg.com/vi/c041MF6tMak/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-jalur-maut/mod%20map%20jalur%20maut.bussidmod"
+    },
+    {
+      "name_map": "bukit bintang",
+      "view_map": "https://i.ytimg.com/vi/H8ZAQUU_6sY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/bukit%20bintang%20amdroid93.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "Truck Hino 500 Trailer",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Hino-500-Trailer.jpeg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/1hino%20500%20trailer%20new.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "SCANIA R580 Hanya Kepala",
+      "image": "https://i.pinimg.com/564x/be/82/10/be8210672d1e1fedbdb12873ef4ad5aa.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/2Mod%20Trailer%20Scania%20G380%20Cometto%20v2.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Hino 700 Chassis Flat",
+      "image": "https://i.pinimg.com/564x/05/2a/89/052a893d6ad7976eb65b2cc77c221f55.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/3CANTER%20HDL%20SUMATERA.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "C700 Tangki Tanker",
+      "image": "https://i.ytimg.com/vi/Q9gB_nr2IKg/hqdefault.jpg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/4Hino%20700%20Tangki%20MAH%20Channel.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "BUSSID Official Bisa Belok",
+      "image": "https://i.pinimg.com/564x/ec/b4/c3/ecb4c36504c6deed0bbba6d70a8b2924.jpg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/5Mod%20Kontainer%20Bussid%20Official.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Dual Face Tangki",
+      "image": "https://i.ytimg.com/vi/alaaX6FYQT0/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/6Trailer%20Hino%20Dual%20Face%20Tangki.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Original BUSSID Bisa Belok",
+      "image": "https://i.pinimg.com/564x/b7/54/a4/b754a4da9bed014db8e639f6d4432fcd.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/7Mod%20Truck%20Trailer%20Original%20Bussid.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "500 FG Trailer Maersk",
+      "image": "https://i.pinimg.com/564x/aa/00/52/aa00525c12e3d5452f16ae0cc95abdb7.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/8Hino%20500%20FG%20Trailer%20Maersk.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fuso Gandeng",
+      "image": "https://i.ytimg.com/vi/QKCw0t8M2uE/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/9FUSO%20GANDENG%20V1%20ad%20iskn.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Trailer Volv FMX",
+      "image": "https://i.pinimg.com/564x/da/2a/4a/da2a4a2e186c236739da1cce1a5845b9.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/10HINO%20500%20SHAGINO%20UPDATE.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}

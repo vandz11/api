@@ -1,0 +1,246 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"null",
+      "main_ads_natives":"",
+      "backup_ads_natives":"3bde6180903bb06d",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"afdbebeac0c67611",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "TAWANGMANGU",
+      "view_map": "https://i.ytimg.com/vi/U6tOlmA_JFg/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
+    },
+    {
+      "name_map": "green_mars",
+      "view_map": "https://i.ytimg.com/vi/15FJVq9zADY/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1FFWa-yS_YdkMt0i6cxEnTNNIkEyeQzg9"
+    },
+    {
+      "name_map": "Forest Snow Road Map",
+      "view_map": "https://i.ytimg.com/vi/GHcKjwP0jmU/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
+    },
+    {
+      "name_map": "bukit bintang",
+      "view_map": "https://i.ytimg.com/vi/H8ZAQUU_6sY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/bukit%20bintang%20amdroid93.bussidmod"
+    }
+   ],
+  "Mods": [
+    {
+      "title": "TUNGGAL JAYA RED VELVET",
+      "image": "https://i.ytimg.com/vi/4y0LlqCz--0/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/LIVERY%20TUNGGAL%20JAYA%20RED%20VELVET%20MOD.bussidmod",
+      "name_livery": "RED VELVET",
+      "link_livery": "https://archive.org/download/livery-tunggal-jaya-red-velvet-mod/LIVERY%20TUNGGAL%20JAYA%20RED%20VELVET%20MOD.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tunggal Jaya JUPITER",
+      "image": "https://i.ytimg.com/vi/qKlftbh_j48/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/TJ%20JUPITER%20THR%20by%20Hanafi%20Hardiyan.bussidmod",
+      "name_livery": "JUPITER",
+      "link_livery": "https://archive.org/download/livery-tunggal-jaya-red-velvet-mod/TJ%20JUPITER%20THR%20by%20Hanafi%20Hardiyan.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tunggal Jaya Green Earth",
+      "image": "https://i.ytimg.com/vi/Qx-myB_Lh5M/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/Tunggal%20Jaya%20Green%20Earth.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tunggal Jaya Moon Eyes",
+      "image": "https://i.ytimg.com/vi/3DG0hmchYXw/maxresdefault.jpg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/Tunggal%20Jaya%20Moon%20Eyes.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tunggal Jaya Deep Purple",
+      "image": "https://i.ytimg.com/vi/WyH01d4nl-4/maxresdefault.jpg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/tunggal-jaya-deep-purple/Tunggal%20Jaya%20Deep%20Purple.bussidmod",
+      "name_livery": "Tunggal Jaya Deep Purple",
+      "link_livery": "https://archive.org/download/livery-tunggal-jaya-red-velvet-mod/LIVERY%20TUNGGAL%20JAYA%20DEEP%20PURPLE%20MOD.png",
+      "name_livery2": "White Deep Purple",
+      "link_livery2": "https://archive.org/download/livery-tunggal-jaya-red-velvet-mod/WHITE%20DEEP%20PURPLE.png"
+    },
+    {
+      "title": "Tunggal Jaya Saturn Reborn",
+      "image": "https://i.ytimg.com/vi/--hjLievfSc/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/tunggal-jaya-deep-purple/Tunggal%20Jaya%20Saturn%20Reborn.bussidmod",
+      "name_livery": "Saturn Reborn",
+      "link_livery": "https://archive.org/download/livery-tunggal-jaya-red-velvet-mod/LIVERY%20TUNGGAL%20JAYA%20SATURN%20REBORN%20MOD.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tunggal Jaya The Elmo",
+      "image": "https://i.ytimg.com/vi/5QELn-VWdUw/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/tunggal-jaya-deep-purple/Tunggal%20Jaya%20The%20Elmo.bussidmod",
+      "name_livery": "The Elmo",
+      "link_livery": "https://archive.org/download/livery-tunggal-jaya-red-velvet-mod/TUNGGAL%20JAYA%20THE%20ELMO%20JB3%20SHD%20-%20FERGIAWAN%20CH.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JB3+ SCANIA NON FACELIFT",
+      "image": "https://i.ytimg.com/vi/Dztoy7YpNMM/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1jK9W_1Lqn8mCJEKTMwZOmKC2q_tEEj54",
+      "name_livery": "BCB (TASIK - JAKARTA)",
+      "link_livery": "https://drive.google.com/uc?export=download&id=17PoYYrsI4Kp70tbyW1Aj41XpqRokbEjJ",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bus Primajasa Scorpion X Full Anim",
+      "image": "https://i.pinimg.com/736x/2d/80/10/2d80102e3496a62091c5081a470be1e3.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1dLS5Z6XUuRlZVbUzoph-WEhUpqgvkc5-",
+      "name_livery": "Primajasa Scor X",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1e8dWRlw3K-yFuHvWpxZ7fr2vPF5OVtH1",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "New Santika Khatulistiwa",
+      "image": "https://i.ytimg.com/vi/A9cFG9_RLSM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDbaI8FR9bl7Ja9NMz4i85XEzY80Q",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1IndfBnW8P4MWQk35Ph2pWyRrdcrtVBl8",
+      "name_livery": "New Shantika Dream",
+      "link_livery": "https://drive.google.com/uc?export=download&id=11Q_jgrjKOnl9DjQOYwd49tAMGHaZZm3t",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bus Tunggal Jaya BlackPink",
+      "image": "https://i.ytimg.com/vi/BviHbMjpj84/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1zTD-pu1GHx_8Zc7fJSFiTcoz4UimRx36",
+      "name_livery": "Tunggal Jaya BlackPink",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1njMbign095-3_d10ryhGTa9eEburz2da",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}

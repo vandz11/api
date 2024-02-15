@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"null",
-      "main_ads_natives":"",
-      "backup_ads_natives":"3bde6180903bb06d",
+      "select_main_ads": "ALIEN-M",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "testing",
+      "main_ads_intertitial":"testing",
+      "main_ads_natives":"testing",
+      "backup_ads_natives":"",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"afdbebeac0c67611",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max" :"",
@@ -42,15 +42,15 @@
       "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
     },
     {
-      "name_map": "bukit bintang",
-      "view_map": "https://i.ytimg.com/vi/H8ZAQUU_6sY/maxresdefault.jpg",
-      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/bukit%20bintang%20amdroid93.bussidmod"
+      "name_map": "Muddy Off-Road",
+      "view_map": "https://i.ytimg.com/vi/7jt_rPn-IC4/sddefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=15CA6OUln13XRJR47qD5ayt--2GeoI9lw"
     }
    ],
   "Mods": [
     {
       "title": "TUNGGAL JAYA RED VELVET",
-      "image": "https://i.ytimg.com/vi/4y0LlqCz--0/maxresdefault.jpg",
+      "image": "https://i.ytimg.com/vi/EuIUnJxI1MY/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/LIVERY%20TUNGGAL%20JAYA%20RED%20VELVET%20MOD.bussidmod",
       "name_livery": "RED VELVET",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Tunggal Jaya JUPITER",
-      "image": "https://i.ytimg.com/vi/qKlftbh_j48/maxresdefault.jpg",
+      "image": "https://i.ytimg.com/vi/JewgWHk2sqU/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/TJ%20JUPITER%20THR%20by%20Hanafi%20Hardiyan.bussidmod",
       "name_livery": "JUPITER",

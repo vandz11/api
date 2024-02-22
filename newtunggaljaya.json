@@ -43,10 +43,15 @@
     },
     {
       "name_map": "Muddy Off-Road",
-      "view_map": "https://i.ytimg.com/vi/7jt_rPn-IC4/sddefault.jpg",
+      "view_map": "https://i.ytimg.com/vi/UPIwtg67r4g/maxresdefault.jpg",
       "map_url": "https://drive.google.com/uc?export=download&id=15CA6OUln13XRJR47qD5ayt--2GeoI9lw"
+    },
+    {
+      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
+      "view_map": "https://i.ytimg.com/vi/TWgIIoKbBVs/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/MOD%20MAP%20BLUSUKAN%20DI%20WONOSOBO.bussidmod"
     }
-   ],
+  ],
   "Mods": [
     {
       "title": "TUNGGAL JAYA RED VELVET",

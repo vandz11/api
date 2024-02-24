@@ -1,0 +1,286 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "null",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"46ea7ec7d6c641ad",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"fd0fafae4ef9c677",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
+      "view_map": "https://i.ytimg.com/vi/SaIvVtFKTvk/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/MOD%20MAP%20BLUSUKAN%20DI%20WONOSOBO.bussidmod"
+    },
+    {
+      "name_map": "BROADFROOD",
+      "view_map": "https://www.mediarale.com/wp-content/uploads/2022/10/Compress_20221008_103019_9202-1024x574.jpg.webp",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/ROADFROOD.bussidmod"
+    },
+    {
+      "name_map": "bukit bintang",
+      "view_map": "https://i.ytimg.com/vi/H8ZAQUU_6sY/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/bukit%20bintang%20amdroid93.bussidmod"
+    },
+    {
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.ytimg.com/vi/SqtZs5rWbrg/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/full%20jalur%20khusus%20ofroad.bussidmod"
+    },
+    {
+      "name_map": "jalur puncak 1",
+      "view_map": "https://i.ytimg.com/vi/ShwXT7KElDA/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
+    },
+    {
+      "name_map": "kelok naga malam no rain",
+      "view_map": "https://img.esportsku.com/wp-content/uploads//2023/01/bussid-kelok-naga-1200x900.webp",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/kelok_naga_malam_no%20rain.bussidmod"
+    },
+    {
+      "name_map": "map tambang",
+      "view_map": "https://i.ytimg.com/vi/Ac-i7Fj91_I/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/map%20tambang.bussidmod"
+    },
+    {
+      "name_map": "mod map blusukan",
+      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-Map-Kelok-44-Jalan-Rusak.webp",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/mod%20map%20blusukan.bussidmod"
+    },
+    {
+      "name_map": "mod map jalur maut",
+      "view_map": "https://i.ytimg.com/vi/q-45mcgUcbg/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/mod%20map%20jalur%20maut.bussidmod"
+    },
+    {
+      "name_map": "mod map sumatra",
+      "view_map": "https://i.ytimg.com/vi/48QMbqRgVR0/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/mod%20map%20sumatra.bussidmod"
+    },
+    {
+      "name_map": "kelok 44 atas",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/09/Map-Kelok-44-by-PKU-Project.webp",
+      "map_url": "https://drive.google.com/uc?export=download&id=1By8qqiVR6MnY5MC6kBmO2jjHvHbs4dfE"
+    },
+    {
+      "name_map": "Forest Snow Road Map",
+      "view_map": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-04112022-174835.jpg?fit=1200%2C674&ssl=1",
+      "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
+    },
+    {
+      "name_map": "TAWANGMANGU SIANG",
+      "view_map": "https://i.ytimg.com/vi/U6tOlmA_JFg/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
+    },
+    {
+      "name_map": "Map Jalur Maut Papua",
+      "view_map": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggdzpzs-hHnnFIaxxyqzn5ZNSRygoyMM9zvjDuTaamdB60YKLkazeEZxLqK0LRw42CfhTbu504_fGHs0YZkQxDEe9bYlUzfN_m2q0cC031ucK2QA5aWj269_m9sc6j1zaFQPEUbLqoVKATbbA_QRBUba-xzyLTK_RlvROzZzL2k6INxC4H5hwt4rdc/w1200-h630-p-k-no-nu/Photo_220917094036.jpeg",
+      "map_url": "https://archive.org/download/mod-map-jalur-maut/mod%20map%20jalur%20maut.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "LAMBORGHINI Aventador PATWAL",
+      "image": "https://1.bp.blogspot.com/-sXjbEDFiPR4/XqB2D8aP-GI/AAAAAAAABbI/LmzhiYTCyCwlSvKCBQPRfR9DDAM0q0iywCLcBGAsYHQ/s1600/Photo_200422053049.jpeg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/canter-polisi-tanpa-penutup/Lamborghini%2BRafii%2BAhmad%2Bv.2%2BCvt%2BBy%2BEAP.bussidvehicle",
+      "name_livery": "LAMBO PATWAL PUTIH BIRU",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1bc9ZUMPwPZJhg2CcUOQL8lMGKxh3vGb1",
+      "name_livery2": "LAMBO PATWAL PUTIH PUTIH",
+      "link_livery2": "https://drive.google.com/uc?export=download&id=1xyG9VZTdopLHBDHGLldJHfeXU8dX04XP"
+    },
+    {
+      "title": "SAPOE DJAGAT",
+      "image": "https://i.pinimg.com/564x/1d/a1/96/1da19613be8c21c15a6513f36cdfe677.jpg",
+      "category": "Truk",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1KASZ6sXfen8h5f0uqYi_pJ2nS6MZ8oKl",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Motor RX King",
+      "image": "https://i.ytimg.com/vi/J_B2u7Os6fM/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/tiger-pangeran-by-rega-x-gamng-safefilek-u/MOD%20BUSSID%20Motor%20RX%20King%20-%20Bussid.co.id.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "MOTOR CBR600 RR",
+      "image": "https://www.gtainside.com/downloads/picr/2017-09/1508935462_cbr600.50.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/aerox-hedon-v-2-by-rxg/MOD%20MOTOR%20CBR600RR%20BY%20BASSAMAZUPER_AZUMODS%20%5Bwww.modbussidterbaru.com%5D.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bris trans tuan muda",
+      "image": "https://i.ytimg.com/vi/cOEcu0CivFY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3hKzHhzXpiTcazzeIfEdoPv4_dA.jpeg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/BT%20TUAN%20MUDA.bussidmod",
+      "name_livery": "bris trans tuan muda",
+      "link_livery": "https://archive.org/download/bris-trans-tuan-muda-banner-jb-3-kp-projects-blahbloh/Bris%20Trans%20Tuan%20Muda%20Banner%20JB3%20KP%20Projects%20Blahbloh.png",
+      "name_livery2": "bris trans tuan muda v2",
+      "link_livery2": "https://archive.org/download/bris-trans-tuan-muda-banner-jb-3-kp-projects-blahbloh/Bris%20Trans%20Tuan%20Muda%20JB3%20KP%20Projects%20Blahbloh.png"
+    },
+    {
+      "title": "JB3 Putra Gresik",
+      "image": "https://i.ytimg.com/vi/eLGcr1ALxPk/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/DP%20PUTRA%20GRESIK.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bus Ken Arok",
+      "image": "https://i.ytimg.com/vi/YjHo97RGzyc/sddefault.jpg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/ken%20arok%20bussid.bussidmod",
+      "name_livery": "Ken Arok",
+      "link_livery": "https://archive.org/download/po-haryanto-090-firnanda-rexus-hc-blahbloh/LIVERYEKAPERSADAFULLBANNERBYJHOJHOPHAI.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+     "title": "Tunggal Jaya Moon Eyes",
+      "image": "https://i.ytimg.com/vi/1_BGknwJrDk/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/Tunggal%20Jaya%20Moon%20Eyes.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truk Maleo bawa DJ Sound System",
+      "image": "https://i.pinimg.com/564x/54/2a/6e/542a6ee7871e7945278148ae74588748.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/6-andreas-r-35-truk-muatan-sound-system-led-v-2/2Andreas_R35_Truk_%20Thong_Thong_Lek_New_Pagoeron_DJ_Sound_System.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Canter TE Sound v2",
+      "image": "https://media.thelastsurvivors.org/2022/12/Truck-Canter-TE-Sound-v2.webp",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/6-andreas-r-35-truk-muatan-sound-system-led-v-2/4CANTER_TE_SOUND_V2%5BMOD%20BUSSID%5D.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}

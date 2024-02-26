@@ -1,0 +1,312 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "null",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"80a1cfc0eeea85cbxxx",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"3cb2970fb73d053c",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"fc0626f2ba66e3bd",
+      "open_ads_wortise":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "Muddy Off-Road",
+      "view_map": "https://i.ytimg.com/vi/AdBKJXh5gFs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAZad0yhu28VSrFZq0KEhCcxopg7w",
+      "map_url": "https://drive.google.com/uc?export=download&id=15CA6OUln13XRJR47qD5ayt--2GeoI9lw"
+    },
+    {
+      "name_map": "map tambang",
+      "view_map": "https://i.ytimg.com/vi/Ac-i7Fj91_I/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/map%20tambang.bussidmod"
+    },
+    {
+      "name_map": "kelok 44 atas",
+      "view_map": "https://galeribussid.com/wp-content/uploads/2022/09/Map-Kelok-44-by-PKU-Project.webp",
+      "map_url": "https://drive.google.com/uc?export=download&id=1By8qqiVR6MnY5MC6kBmO2jjHvHbs4dfE"
+    }
+  
+  ],
+  "Mods": [
+    {
+      "title": "Hino 500 Galen Truck",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-10082021-162934.jpg?w=1200&ssl=1",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/GALEN%20BUSSID%20BY%20ZAAMO%20GAMTENG.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Hino 700 Angkut KAI",
+      "image": "https://i.ytimg.com/vi/U0BgHQxtN10/sddefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Hino%20700%20Angkut%20KAI%20CC%20206%20by%20MAH%20Channel.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Pertamina",
+      "image": "https://i.ytimg.com/vi/7eNc5VKGmDg/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Mod%20Truck%20Hino%20Pertamina.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Peterbilt 379 Packer Muatan Mobil",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/09/SGCA_IMG-13092023-005244.jpeg?fit=1600%2C900&ssl=1",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Peterbilt%20379%20Packer%20Muatan%20Mobil%20cvt%20Hanzoo%20Mod.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Scania Car Transporter Truck",
+      "image": "https://i.ytimg.com/vi/7vxR5PHTtLk/sddefault.jpg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Scania_Car_Transporter_cvt_Trian_NdokO.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2":"null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Hino Profia Tank",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Hino-Profia-Tank.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Truck%20Hino%20Profia%20Tank.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Kenworth T908 Trailer Pipe ",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/08/SGCA_IMG-04082023-002252.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/galen-bussid-by-zaamo-gamteng/Truck%20Kenworth%20T908%20Trailer%20Pipe%20cvt%20Hanzoo%20Mod.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Hino Terpal Oren Full Muatan",
+      "image": "https://i.ytimg.com/vi/1cSJBY8x35o/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/Truck%20Hino%20500NG%20Terpal%20Oren.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "HINO 500 DUMP KALIMANTAN",
+      "image": "https://i.ytimg.com/vi/mVTtHeYludM/hqdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/HINO%20500%20DUMP%20KALIMANTAN%20SHARE.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Exavator",
+      "image": "https://i.ytimg.com/vi/ZiPk8TnY4OU/mqdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/DOLLY%20VARIANT%201.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Muatan Motor",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Hino-500NG-Muatan-Motor.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/MOD%20BUSSID%20Truck%20Hino%20500NG%20Muatan%20Motor.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truk Hino Selfloader Buldozer",
+      "image": "https://i.ytimg.com/vi/3thHNIAuJyA/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/Mod%20BUSSID%20Truk%20Hino%20Selfloader%20Buldozer.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "hino bak kayu",
+      "image": "https://i.ytimg.com/vi/Q0ssaX_F8DU/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/dolly-variant-1/hino%20lohan%20purwo%20logistic%20cvt%20WSP%20bak%20kayu.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Angkut Helicopter",
+      "image": "https://media.hobigame.id/2023/02/mod-bussid-man-tgs-18-480-4x4-2-hobigame.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1UYfyNadG4wdbxKL_UXRg2zyKI7kLPAzg",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Muatan batubara",
+      "image": "https://i.ytimg.com/vi/YQwPtYoBBlw/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/Hino%20Dump%20Muatan%20batubara%20by%20Garasi%20SMC.bussidmod",
+      "name_livery": "Hino Muatan Batu Bara",
+      "link_livery": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/Predator%20by%20Garasi%20SMC.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "ISUZU NKR Overload",
+      "image": "https://i.ytimg.com/vi/JBYVeMwxwZQ/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/MOD%20NKR%20OM%20GHASTON%20MUATAN%20BY%20DAENG%20MUANG%20ID.bussidmod",
+      "name_livery": "Tubles_OmGhaston",
+      "link_livery": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/Tubles_OmGhaston11-04-07.57.36.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Full Muatan",
+      "image": "https://i.pinimg.com/736x/74/b7/5d/74b75dbebeaf6c5c7dc7564918c35f5e.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/NMR71%20Levis%20Gayor.bussidmod",
+      "name_livery": "ISUZU NMR 71 Full Muatan",
+      "link_livery": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/PicsArt_11-30-10.31.28.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fuso Angkut Kayu",
+      "image": "https://i.ytimg.com/vi/GpXhOumMwwE/hqdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/hino-dump-muatan-batubara-by-garasi-smc/fuso-balak-ragil-namkurmoding-v1%20all%20anim.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}

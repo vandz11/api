@@ -1,0 +1,316 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "null",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"2d3c25934156d2ec",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"d7b8d25b8a0c3db7",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"2b2ab2d7f98715df",
+      "open_ads_wortise":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "Forest Snow Road Map",
+      "view_map": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/11/SGCA_IMG-04112022-174835.jpg?fit=1200%2C674&ssl=1",
+      "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
+    },
+    {
+      "name_map": "Sirkuit Balapan",
+      "view_map": "https://assets.karyakarsa.com/post-image-6264872a8de3b.jpeg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1MqIP_QugsCO7wHaRC5PJB77rOMEmgX2Q"
+    },
+    {
+      "name_map": "TAWANGMANGU SIANG",
+      "view_map": "https://i.ytimg.com/vi/U6tOlmA_JFg/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
+    },
+    {
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.ytimg.com/vi/ANk7G2pzc_U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBkaH2XtclY0tlvAM_-4dttqtA-KQ",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "Audi R8 Sport Driver",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/07/Audi-R8-Sport.jpeg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Audi%20R8%20Sport%20Driver.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "mull",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Ford Thunderbird Lowriders Driver",
+      "image": "https://i.ytimg.com/vi/PI3bVeMLSw8/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Ford%20Thunderbird%20Lowriders%20Driver.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fortuner Street Racing Driver",
+      "image": "https://i.ytimg.com/vi/x0tfOIXGspI/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Fortuner%20Street%20Racing%20Driver.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Nissan GT-R LB 2023",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/09/Nissan-GT-R-LB-Works-New-Update-2022.jpeg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Nissan%20GT-R%20LB%20Works%20New%20Update%202022%20No%20Driver.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Nissan Slvia S14 RedBull Driver",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/09/Nissan-Slvia-S14-RedBull.jpeg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Nissan%20Slvia%20S14%20RedBull%20Driver.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Rolls Royce Ghost Mansory",
+      "image": "https://i.ytimg.com/vi/j3gYqhiQomo/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/Rolls-Royce%20Ghost%20Mansory%20by%20artur0777%20Driver.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "XPANDER 2023 RALLY LOCK",
+      "image": "https://i.ytimg.com/vi/trjgADpJQRw/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/XPANDER%202022%20RALLY%20LOCK.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fast and Furious",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/09/SGCA_IMG-05092023-113325.jpeg?resize=1536%2C864&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1qEfW9Lt4853JP2Fp4V34sAWQ8VpZoe6y",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "joker racing driver",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/toyota-fortuner-gr-sport-full-sticker/joker%20racing%20driver.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Pagani Utopia 2023",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/07/SGCA_IMG-21072023-072400.jpeg?fit=1600%2C900&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1q6_JfTIMVn0QNzJIIfjebRAgKfH3E9nB",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Alphard Hybrid Executive",
+      "image": "https://i.ytimg.com/vi/DfoFr0c1r10/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1qHjMIkT3R7ysXjWCs0q2JEu1VcJ3gglD",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bugatti Divo",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Mobil-Bugatti-Divo.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Bugatti%20Divo%20-%20Javastech.com.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Honda NSX Liberty Walk 2023",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/06/SGCA_IMG-26062023-000946.jpeg?fit=1600%2C900&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1usNDSpzZ1Oxdb3w4IP_qZVibYXZl9UZr",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Honda Civic Type R",
+      "image": "https://i.ytimg.com/vi/5_boA6sr4gI/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Honda%20Civic%20TypeR%20by%20NanoNano%20-%20Javastech.com.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Ford Mustang RTR Spec 5 2021",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/06/SGCA_IMG-25062023-012019.jpeg?resize=1536%2C864&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=118GAf40t7Fk8RAw-1rFlIaz7GGDbz8kj",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Pajero Black 2016 Original",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/09/SGCA_IMG-15092023-004959.jpeg?resize=1536%2C864&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Pajero%20Black%202016%20Original.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota GT86 Mcqueen",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Mobil-Toyota-GT68-McQueen.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/mobil-travel-innova-venturer/Toyota%20GT86%20Mcqueen%20Car%20-%20Javastech.com.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bentley Continental GT Platinum",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/07/SGCA_IMG-02072023-004755.jpeg?fit=1600%2C900&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=17zNH1jCigdraM0AOVk_CTzYKA5FFQ6vP",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}

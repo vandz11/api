@@ -1,0 +1,242 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "TAWANGMANGU",
+      "view_map": "https://i.ytimg.com/vi/U6tOlmA_JFg/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
+    },
+    {
+      "name_map": "green_mars",
+      "view_map": "https://i.ytimg.com/vi/15FJVq9zADY/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1FFWa-yS_YdkMt0i6cxEnTNNIkEyeQzg9"
+    },
+    {
+      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
+      "view_map": "file:///android_asset/berkelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+    }
+   
+   ],
+  "Mods": [
+    {
+      "title": "Bris Trans Casper",
+      "image": "https://i.ytimg.com/vi/s2n45B5mNL8/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/6.%20JETBUS%203%20Trans%20Casper.bussidmod",
+      "name_livery": "Bris Trans Casper",
+      "link_livery": "https://archive.org/download/bris-trans-tuan-muda-banner-jb-3-kp-projects-blahbloh/Bris%20Trans%20Casper%20Banner%20AE%20ART%20JB3%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bris trans tuan muda",
+      "image": "https://i.ytimg.com/vi/cOEcu0CivFY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3hKzHhzXpiTcazzeIfEdoPv4_dA",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/BT%20TUAN%20MUDA.bussidmod",
+      "name_livery": "bris trans tuan muda",
+      "link_livery": "https://archive.org/download/bris-trans-tuan-muda-banner-jb-3-kp-projects-blahbloh/Bris%20Trans%20Tuan%20Muda%20Banner%20JB3%20KP%20Projects%20Blahbloh.png",
+      "name_livery2": "bris trans tuan muda v2",
+      "link_livery2": "https://archive.org/download/bris-trans-tuan-muda-banner-jb-3-kp-projects-blahbloh/Bris%20Trans%20Tuan%20Muda%20JB3%20KP%20Projects%20Blahbloh.png"
+    },
+    {
+      "title": "JB3 “Putra Gresik",
+      "image": "https://i.ytimg.com/vi/eLGcr1ALxPk/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/DP%20PUTRA%20GRESIK.bussidmod",
+      "name_livery": "null",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "REXUS_MERCY",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/07/MOD-BUSSID-JB2-SHD-PO.-Haryanto-La-Samba.jpeg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/REXUS_MERCY.bussidmod",
+      "name_livery": "REXUS_MERCY",
+      "link_livery": "https://archive.org/download/po-haryanto-090-firnanda-rexus-hc-blahbloh/Po%20Haryanto%20090%20Firnanda%20Rexus%20HC%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bus Ken Arok",
+      "image": "https://i.ytimg.com/vi/YjHo97RGzyc/sddefault.jpg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/ken%20arok%20bussid.bussidmod",
+      "name_livery": "Ken Arok",
+      "link_livery": "https://archive.org/download/po-haryanto-090-firnanda-rexus-hc-blahbloh/LIVERYEKAPERSADAFULLBANNERBYJHOJHOPHAI.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Bus Tuan Muda",
+      "image": "https://i.ytimg.com/vi/XAvg-8nuHC4/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/tuan%20muda%20bussid.bussidmod",
+      "name_livery": "bris trans tuan muda",
+      "link_livery": "https://archive.org/download/bris-trans-tuan-muda-banner-jb-3-kp-projects-blahbloh/Bris%20Trans%20Tuan%20Muda%20JB3%20KP%20Projects%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "SR3 Hino RK XHD",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/01/SGCA_IMG-21012023-090213.jpg?w=1200&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/gh-sdv-dop/SR3%20HINO%20DOP%20IVORTEX.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Avante H9 VOLVO B11R",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/04/MOD-BUSSID-Avante-H9.jpeg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/gh-sdv-dop/VOLVO%20B11R%20FULL%20VARIASI.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tunggal Jaya Moon Eyes",
+      "image": "https://i.ytimg.com/vi/1_BGknwJrDk/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/Tunggal%20Jaya%20Moon%20Eyes.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Tunggal Jaya JUPITER",
+      "image": "https://i.ytimg.com/vi/qKlftbh_j48/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/jb-3angga-mhd-update-ring/TJ%20JUPITER%20THR%20by%20Hanafi%20Hardiyan.bussidmod",
+      "name_livery": "JUPITER",
+      "link_livery": "https://archive.org/download/livery-tunggal-jaya-red-velvet-mod/TJ%20JUPITER%20THR%20by%20Hanafi%20Hardiyan.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JB3 SDV Spesial Gunung Harta Hino",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2023/07/SGCA_IMG-31072023-164313.jpg?w=1200&ssl=1",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/gh-sdv-dop/GH%20SDV%20DOP.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}

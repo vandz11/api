@@ -27,51 +27,46 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Madura v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "jalur puncak 1",
+      "view_map": "https://i.ytimg.com/vi/RD2PBjfJuEU/sddefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Fajri GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "TAWANGMANGU",
+      "view_map": "https://i.ytimg.com/vi/07N5vdKf7Ok/maxresdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
     },
     {
-      "name_map": "Jalur Rawajati, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+      "name_map": "map tambang",
+      "view_map": "hTtps://i.ytimg.com/vi/UaDFYh3eJlk/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/map%20tambang.bussidmod"
     },
     {
-      "name_map": "Bukit Babi (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-Racing-Scania-V2.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Alhamdulliah Akhirnya Bisa 67",
-      "view_map": "https://media.thelastsurvivors.org/2022/11/Mod-SR2-XHD-ECE-R66.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "Map Jalur Maut Papua",
+      "view_map": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggdzpzs-hHnnFIaxxyqzn5ZNSRygoyMM9zvjDuTaamdB60YKLkazeEZxLqK0LRw42CfhTbu504_fGHs0YZkQxDEe9bYlUzfN_m2q0cC031ucK2QA5aWj269_m9sc6j1zaFQPEUbLqoVKATbbA_QRBUba-xzyLTK_RlvROzZzL2k6INxC4H5hwt4rdc/w1200-h630-p-k-no-nu/Photo_220917094036.jpeg",
+      "map_url": "https://archive.org/download/mod-map-jalur-maut/mod%20map%20jalur%20maut.bussidmod"
     }
   ],
   "Mods": [
     {
-      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
-      "image": "file:///android_asset/Prime.webp",
+      "title": "Bus Garuda Mas",
+      "image": "https://i.ytimg.com/vi/cEBQq7AVvc4/sddefault.jpg",
       "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "link_mods": "https://archive.org/download/hino-rm-dop-velg-ring/JB3%20HINO.bussidmod",
+      "name_livery": "Garuda Mas",
+      "link_livery": "https://archive.org/download/hino-rm-dop-velg-ring/Garuda%20Mas%20Yukikato%20JB3%20KP%20Projects%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "title": "Tunggal Jaya Armageddon",
+      "image": "https://i.ytimg.com/vi/HQJvYN7ySW0/sddefault.jpg",
       "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "link_mods": "https://archive.org/download/hino-rm-dop-velg-ring/HINO%20RM%20DOP%2C%20VELG%2C%20RING.bussidmod",
+      "name_livery": "Tunggal Jaya Armageddon",
+      "link_livery": "https://archive.org/download/hino-rm-dop-velg-ring/livery%20tunggal%20jaya%20Armageddon%20by%20afr%20info%20reborn.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "SR3 XHD Prime Ultimate by MN Art x BFC",

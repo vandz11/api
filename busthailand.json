@@ -1,9 +1,9 @@
 {
   "Ads": [
     {
-      "select_main_ads": "null",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/9214589741",
       "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
@@ -35,6 +35,11 @@
       "name_map": "mod map blusukan",
       "view_map": "https://i.ytimg.com/vi/g2enJd_9hLI/maxresdefault.jpg",
       "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/mod%20map%20blusukan.bussidmod"
+    },
+    {
+      "name_map": "jalur puncak 1",
+      "view_map": "https://i.ytimg.com/vi/JNjlExcKlkE/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
     }
   ],
   "Mods": [

@@ -1,0 +1,291 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "map tambang",
+      "view_map": "https://i.ytimg.com/vi/RGU5lgJpw8g/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/map%20tambang.bussidmod"
+    },
+    {
+      "name_map": "mod map blusukan",
+      "view_map": "https://i.ytimg.com/vi/g2enJd_9hLI/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/mod%20map%20blusukan.bussidmod"
+    },
+    {
+      "name_map": "jalur puncak 1",
+      "view_map": "https://i.ytimg.com/vi/JNjlExcKlkE/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "bus thailand 1",
+      "image": "https://i.ytimg.com/vi/wFNBHEYQ6ok/maxresdefault.jpg",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/thai-tipe-7/bus%20thailand%20tipe%201.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 2",
+      "image": "https://image.winudf.com/v2/image1/Y29tLmRpZGF4YnVzc2lkLmJ1c3RoYWlsYW5kX3NjcmVlbl8wXzE2NjUxMjI2NjBfMDI2/screen-0.webp?fakeurl=1&type=.webp",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%202.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 3",
+      "image": "https://play-lh.googleusercontent.com/BX9GhPdDn6BzRGGbCSp8-IiXzmXqmtXIwnJRjrhBmN6bbSZCvUcUkL937ESqjgv02g=w800-h500-rw",
+      "category": "Bus",
+      "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%203.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 4",
+      "image": "https://i.ytimg.com/vi/DLDM9rNMLJ4/maxresdefault.jpg",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%204.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 5",
+      "image": "https://i.ytimg.com/vi/Yoot_YrMBjs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAPnuvyZ5unXN9sYO6VuVoJb9rtng",
+      "category": "Truk",
+      "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%205.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 6",
+      "image": "https://i.ytimg.com/vi/exXxdlns7FA/hqdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%206.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 7",
+      "image": "https://image.winudf.com/v2/image1/Y29tLnB0ZGFuYXBpbmphbWFubHVuYWsudGhhaWxhbmRfc2NyZWVuXzBfMTY3MzI4MzMzNF8wNzM/screen-0.webp?fakeurl=1&type=.webp",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%207.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 8",
+      "image": "https://image.winudf.com/v2/image1/Y29tLmJ1cy50aGFpbGFuZF9zY3JlZW5fNF8xNjg5Nzg2NjYzXzA2OQ/screen-4.webp?fakeurl=1&type=.webp",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%208.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 9",
+      "image": "https://play-lh.googleusercontent.com/ieEVh1yIZXmoc-LHAk0WZ9cbbU-5uhhrJ_4Jhpdeyf3uxI4nS1bIlgWYLVuVCYxULQ=w750-h750",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/thai-tipe-7/thai%20tipe%209.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Thailook",
+      "image": "https://i.ytimg.com/vi/6PxE2E-R_nQ/hqdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/RAGASA%20THAILOOK%20%5BRMC%20CREATION%5D.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 10",
+      "image": "https://play-lh.googleusercontent.com/p1SxHNC5TqUZxc2d2cS6d8079KrKeUnFE1jxmb3IYEkn2C7WeQl1ssk45YnXYy45yA",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/10-%E0%B8%A5%E0%B9%89%E0%B8%AD.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "truck canter thailook",
+      "image": "https://i.ytimg.com/vi/4B5DDPFs4EU/hqdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/Canter%20Drag.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 11",
+      "image": "https://i.ytimg.com/vi/8y_QTjSixxI/sddefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/beer.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 12",
+      "image": "https://image.winudf.com/v2/image1/Y29tLm1vZC5idXMudGhhaV9zY3JlZW5fMV8xNjc2ODY0MTM0XzAzNA/screen-1.webp?fakeurl=1&type=.webp",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/busfree.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 13",
+      "image": "https://play-lh.googleusercontent.com/cJaTgEoM65NSlux7ON06z9aEt_fyn2p7PqhMp3LcUjF0wcaRE7koSgWZdKPgeSxc4bjE=h500",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/bus%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%A2.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "bus thailand 14",
+      "image": "https://i.ytimg.com/vi/TjpznhpMh3A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8SePxi2gBSJPRMIkY26G-ozLHYQ",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/bus_20231009/%E0%B9%82%E0%B8%8A%E0%B8%84%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%8A.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}

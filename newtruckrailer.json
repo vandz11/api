@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "select_main_ads": "null",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
-      "backup_ads_natives":"e30831f011058e0d",
+      "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"e04c3bc38f6bec2d",
       "open_ads_admob":"",
@@ -45,7 +45,7 @@
   "Mods": [
     {
       "title": "Truck Hino 500 Trailer",
-      "image": "https://modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Hino-500-Trailer.jpeg",
+      "image": "https://i.pinimg.com/564x/cd/7a/2d/cd7a2d122762e7a7c7068cb214074620.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/1hino%20500%20trailer%20new.bussidmod",
       "name_livery": "null",
@@ -55,7 +55,7 @@
     },
     {
       "title": "SCANIA R580 Hanya Kepala",
-      "image": "https://i.pinimg.com/564x/be/82/10/be8210672d1e1fedbdb12873ef4ad5aa.jpg",
+      "image": "https://i.pinimg.com/564x/a3/1a/bd/a31abd05ebf92a082ebb264be9fd9db6.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/2Mod%20Trailer%20Scania%20G380%20Cometto%20v2.bussidmod",
       "name_livery": "null",
@@ -75,7 +75,7 @@
     },
     {
       "title": "C700 Tangki Tanker",
-      "image": "https://i.ytimg.com/vi/Q9gB_nr2IKg/hqdefault.jpg",
+      "image": "https://i.pinimg.com/564x/c0/42/5d/c0425d4fdb79a0ed4f766d34409b0c4e.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/4Hino%20700%20Tangki%20MAH%20Channel.bussidmod",
       "name_livery": "null",
@@ -125,7 +125,7 @@
     },
     {
       "title": "Fuso Gandeng",
-      "image": "https://i.ytimg.com/vi/QKCw0t8M2uE/maxresdefault.jpg",
+      "image": "https://i.pinimg.com/564x/e3/56/c1/e356c1b3f13af60472a769aa417e1707.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/6-trailer-hino-dual-face-tangki/9FUSO%20GANDENG%20V1%20ad%20iskn.bussidmod",
       "name_livery": "null",

@@ -27,9 +27,9 @@
   ],
   "Maps": [
     {
-      "name_map": "Muddy Off-Road",
-      "view_map": "https://i.pinimg.com/564x/76/87/2f/76872f889db9ccb64023ec44f3945b1c.jpg",
-      "map_url": "https://drive.google.com/uc?export=download&id=15CA6OUln13XRJR47qD5ayt--2GeoI9lw"
+      "name_map": "Kawasan Bromo",
+      "view_map": "https://i.pinimg.com/564x/ca/8d/93/ca8d930854e911b06e90f1c9dc89f79d.jpg",
+      "map_url": "https://archive.org/download/mod-map-kawasan-bromo-v-2/mod%20map%20kawasan%20bromo%20v2.bussidmod"
     },
     {
       "name_map": "Map Kelok Jalan-Rusak",
@@ -38,8 +38,8 @@
     },
     {
       "name_map": "Green Mars Terbesar",
-      "view_map": "https://i.pinimg.com/564x/9b/73/5d/9b735db3ea496dee05893a8a005a3b5e.jpg"
-      "map_url": "https://drive.google.com/uc?export=download&id=1FFWa-yS_YdkMt0i6cxEnTNNIkEyeQzg9"
+      "view_map": "https://i.pinimg.com/564x/9b/73/5d/9b735db3ea496dee05893a8a005a3b5e.jpg",
+      "map_url": "https://archive.org/download/mod-map-kawasan-bromo-v-2/green_mars.bussidmod"
     }
   ],
   "Mods": [
@@ -140,6 +140,16 @@
       "link_mods": "https://archive.org/download/14.-casper_202403/14.%20CASPER.bussidmod",
       "name_livery": "QQ TRANS WINSPECTOR",
       "link_livery": "https://archive.org/download/14.-casper_202403/14.%20LIVERY%20QQ%20TRANS%20WINSPECTOR%20MOD.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Asyrof Katak Ijo",
+      "image": "https://i.pinimg.com/564x/fc/65/a1/fc65a17e36c4e350fecb36420c118b20.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1BqpRggYlHVpVfUB6uIai98ipdz693oc5",
+      "name_livery": "Asyrof Katak Ijo Non Banner",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1Lib7qlbrrHyMmJiFGoT_7ievZsUcz5yN",
       "name_livery2": "null",
       "link_livery2": "null"
     }

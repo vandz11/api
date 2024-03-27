@@ -2,13 +2,13 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max" :"",
@@ -27,35 +27,25 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "pagar alam sumatra",
+      "view_map": "https://i.pinimg.com/564x/87/91/5b/87915b07e45263a2af5621553c0d77a6.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1x14VuuDCHWzgy86eCjIdmbuT1ALIIB0k"
     },
     {
-      "name_map": "Kelok 18 by Aliyan GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+      "name_map": "Forest Snow Road",
+      "view_map": "httpshttps://i.pinimg.com/564x/02/7f/13/027f132db17abcdab93a20b92811bd7e.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1lHGjhHvvloCT4ItJLRfGmwy2OS697DJR"
     },
     {
-      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.pinimg.com/564x/1a/aa/0a/1aaa0a164b0aef66818135361ca4e82f.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/full%20jalur%20khusus%20ofroad.bussidmod"
     }
   ],
   "Mods": [
     {
       "title": "QQ TRANS WINSPECTOR",
-      "image": "https://i.pinimg.com/564x/86/49/e7/8649e76c6257db00b11578c9b2bf7942.jpg",
+      "image": "https://i.pinimg.com/564x/e6/ea/14/e6ea146ac7b05b1f8ff1debee011e381.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/14.-casper_202403/14.%20CASPER.bussidmod",
       "name_livery": "QQ TRANS WINSPECTOR",
@@ -75,7 +65,7 @@
     },
     {
        "title": "Bus Ken Arok",
-      "image": "https://i.ytimg.com/vi/YjHo97RGzyc/sddefault.jpg",
+      "image": "https://i.pinimg.com/564x/6e/d9/a8/6ed9a8518dac9c0d7b551f6520c19253.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/tuan-muda-bussid/ken%20arok%20bussid.bussidmod",
       "name_livery": "Ken Arok",
@@ -95,7 +85,7 @@
     },
     {
       "title": "Tunggal Jaya Armageddon",
-      "image": "https://i.ytimg.com/vi/HQJvYN7ySW0/sddefault.jpg",
+      "image": "https://i.pinimg.com/564x/77/85/06/778506d0267c3f691f3cc58ee62cec53.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/hino-rm-dop-velg-ring/HINO%20RM%20DOP%2C%20VELG%2C%20RING.bussidmod",
       "name_livery": "Tunggal Jaya Armageddon",
@@ -105,7 +95,7 @@
     },
     {
       "title": "Asyrof Babyboss",
-      "image": "https://i.ytimg.com/vi/PcWG-ICUDYs/maxresdefault.jpg",
+      "image": "https://i.pinimg.com/564x/ff/46/60/ff466006f395285aee5db3dbf22c9d6f.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/jetbus-3-shd-gen-1-free-acc/Baby%20Boss.bussidmod",
       "name_livery": "Asyrof Babyboss",
@@ -124,8 +114,8 @@
       "link_livery2": "null"
     },
     {
-      "title": "JB3 “Putra Gresik",
-      "image": "https://i.ytimg.com/vi/eLGcr1ALxPk/maxresdefault.jpg",
+      "title": "JB3 Putra Gresik",
+      "image": "https://i.pinimg.com/564x/09/ce/40/09ce40685b0b3be47a557beb699e26b8.jpg",
       "category": "Bus",
       "link_mods": "https://archive.org/download/tuan-muda-bussid/DP%20PUTRA%20GRESIK.bussidmod",
       "name_livery": "null",
@@ -134,22 +124,32 @@
       "link_livery2": "null"
     },
     {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "title": "RATU MAHER",
+      "image": "https://i.pinimg.com/564x/c9/a8/81/c9a881f8d8df01e32dbcef2a88d58a2d.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
+      "link_mods": "https://archive.org/download/jb-3-dc-var-alcoa-full-acc-belakang-plat-nyala/2.%20JB3%2B%20HINO%20RK.bussidmod",
+      "name_livery": "JB3 RATU MAHER",
+      "link_livery": "https://archive.org/download/jb-3-dc-var-alcoa-full-acc-belakang-plat-nyala/2.%20RATU%20MAHER%20BY%20ANDREAS%20SK%20GAMING.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "title": "JB2 SJM Trans Detective Conan",
+      "image": "https://i.pinimg.com/564x/a7/40/e4/a740e4018467602ce9a097883b34b0be.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "link_mods": "https://archive.org/download/jb-3-dc-var-alcoa-full-acc-belakang-plat-nyala/JB2%20CONAN.bussidmod",
+      "name_livery": "JB2 SJM Trans Detective Conan Banner",
+      "link_livery": "https://archive.org/download/jb-3-dc-var-alcoa-full-acc-belakang-plat-nyala/SJM%20Trans%20Detective%20Conan%20Banner%20JB2%20MNXKPP%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "KALINGGA JAYA DREAM COACH",
+      "image": "https://i.pinimg.com/564x/2f/76/dd/2f76dd1e088af3fcb60de03ca12c114f.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/jb-3-dc-var-alcoa-full-acc-belakang-plat-nyala/JB3%20DC%20VAR%20ALCOA%20FULL%20ACC%20BELAKANG%20PLAT%20NYALA.bussidmod",
+      "name_livery": "LIVERY KALINGGA JAYA DREAM COACH",
+      "link_livery": "https://archive.org/download/jb-3-dc-var-alcoa-full-acc-belakang-plat-nyala/LIVERY%20KALINGGA%20JAYA%20DREAM%20COACH%20ATHARIZ.png",
       "name_livery2": "null",
       "link_livery2": "null"
     }

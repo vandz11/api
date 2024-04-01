@@ -27,29 +27,14 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "TAWANGMANGU",
+      "view_map": "https://i.ytimg.com/vi/g4-5J38cNjU/hqdefault.jpg",
+      "map_url": "https://drive.google.com/uc?export=download&id=1LA21aEzds8D1MOliImHNMxBxtSqUg9Bq"
     },
     {
-      "name_map": "Kelok 18 by Aliyan GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
-    },
-    {
-      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "jalur puncak 1",
+      "view_map": "https://i.ytimg.com/vi/wrKfezAof_0/maxresdefault.jpg",
+      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/jalur%20puncak1.bussidmod"
     }
   ],
   "Mods": [
@@ -64,14 +49,14 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
+      "title": "BMR Vega Thadathil",
+      "image": "https://i.pinimg.com/564x/f2/de/3e/f2de3e96d6d8b68c3597ecf630994db4.jpg",
       "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "link_mods": "https://archive.org/download/durby-final_202403/BMR%20VEGA%20MOD%20BY%20TVZ%20_.bussidmod",
+      "name_livery": "BMR Vega Thadathil 6K",
+      "link_livery": "https://archive.org/download/durby-final/THADATHIL%20RAKSHASI%20KLGRG%20TVZ%206k.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
       "title": "Garuda Maharaja",
@@ -95,7 +80,7 @@
     },
     {
       "title": "Kerala Tiger BC Haifa",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "image": "https://i.pinimg.com/564x/87/67/56/876756c974673d53573d0763057f26d4.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/tigerbodycode-v-2.1-cabin-fixed/Tigerbodycode%20V2.1%20Cabin%20Fixed%20.bussidmod",
       "name_livery": "Kerala KSRTC tata old",
@@ -115,7 +100,7 @@
     },
     {
       "title": "Kerala Coach Chocolate",
-      "image": "https://i.pinimg.com/564x/e8/31/00/e831003aee5133ff97da13da513ce7b0.jpg",
+      "image": "https://i.pinimg.com/564x/31/2d/bd/312dbd6a284fd4382415e248d4165ab9.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/tigerbodycode-v-2.1-cabin-fixed/TIGER.COACH.BUS.MOD.bussidmod",
       "name_livery": "Kerala Tiger Coach Chocolate",
@@ -125,7 +110,7 @@
     },
     {
       "title": "Kerala Zedmax Beauty",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "image": "https://i.pinimg.com/564x/8c/19/60/8c1960aab2a84e9df0410a3377103009.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/tigerbodycode-v-2.1-cabin-fixed/ZEDMAX.PLUS.BUS.MOD.bussidmod",
       "name_livery": "Zedmax",
@@ -135,7 +120,7 @@
     },
     {
       "title": "Kerala Zedmax Plus",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "image": "https://i.pinimg.com/564x/bc/e1/bd/bce1bd88df0fa1425bfdad55d860d88e.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/tigerbodycode-v-2.1-cabin-fixed/ZEDMAX.PLUS.BUS.MOD.bussidmod",
       "name_livery": "Zedmax Plus",
@@ -145,11 +130,41 @@
     },
     {
       "title": "BMR Boss v2",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "image": "https://i.pinimg.com/564x/72/9c/5f/729c5f15fc883f29dde062b6d506ed4c.jpg",
       "category": "Mobil",
       "link_mods": "https://drive.google.com/uc?export=download&id=1nPopYIopgksIlxy5J2jyCIoZVge5ZLsV",
       "name_livery": "Yellow Holiday",
       "link_livery": "https://drive.google.com/uc?export=download&id=1SZMrVWAOr7UwfRyxvdc8DOBbIyCxE8j4",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Gemini Coach Durby",
+      "image": "https://i.pinimg.com/564x/8b/a3/7b/8ba37bb9813a8124e5a320656ef286a1.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/durby-final_202403/DURBY_FINAL.bussidmod",
+      "name_livery": "Gemini Coach Durby",
+      "link_livery": "https://archive.org/download/durby-final_202403/durby.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Zed Astra Kumaran",
+      "image": "https://i.pinimg.com/564x/ae/63/8c/ae638cc1daa1ab0984b1afb6676bbb59.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/durby-final_202403/ZED%20ASTRA.bussidmod",
+      "name_livery": "Zed Astra Kumaran",
+      "link_livery": "https://archive.org/download/durby-final_202403/LIVERY%20BY%20ADKD%20GAMING%203.O%20.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "ADMASS COACH",
+      "image": "https://i.pinimg.com/564x/40/a7/b0/40a7b0d6170681be9a03a19795d14739.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1m0w57-vCl9lj5e1nT3nWWnmsscUF5LTr",
+      "name_livery": "ADMASS COACH Geetha",
+      "link_livery": "https://drive.google.com/uc?export=download&id=1NbQ0iKthy8LEtT4BMXjBgcjd9jt9LY6L",
       "name_livery2": "null",
       "link_livery2": "null"
     }

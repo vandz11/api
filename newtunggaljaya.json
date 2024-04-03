@@ -1,15 +1,15 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ALIEN-M",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "testing",
-      "main_ads_intertitial":"testing",
-      "main_ads_natives":"testing",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-9880738442368534/8835610121",
+      "main_ads_intertitial":"ca-app-pub-9880738442368534/6023628421",
+      "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-9880738442368534/3397465087",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",

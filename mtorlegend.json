@@ -33,7 +33,7 @@
     },
     {
       "name_map": "pagar alam sumatra",
-      "view_map": "https://i.ytimg.com/vi/jLZIIBMobGI/sddefault.jpg",
+      "view_map": "https://i.pinimg.com/564x/7b/df/00/7bdf00b47db85379e1b9468cc0ae9269.jpg",
       "map_url": "https://drive.google.com/uc?export=download&id=1x14VuuDCHWzgy86eCjIdmbuT1ALIIB0k"
     },
     {
@@ -208,6 +208,26 @@
       "image": "https://cs2.gtaall.com/screenshots/4dc09/2016-01/original/6eaf97602f5bc03d800e888046af3cfa91bde6c3/315276-gta-sa-2016-01-07-15-06-55-29.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/mod-kawasaki-z-800-v-1-boncengan-speed-kencang/Mod%20Motor%20PCJ%20600%20.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Vespa Matic",
+      "image": "https://i.pinimg.com/564x/c8/9b/2f/c89b2f719ec55ee2b728631bd5112292.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1sD_wVswslexYDd31dPV6M7_s2kg_TiNp",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Super Duke R KTM 1290",
+      "image": "https://i.pinimg.com/564x/da/a1/d2/daa1d2e4e80701e44e46f8b30a1f00ac.jpg",
+      "category": "Mobil",
+      "link_mods": "https://drive.google.com/uc?export=download&id=1SUmfsS_apiyTjKBU-0cNWdeZF6fTzTs6",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",

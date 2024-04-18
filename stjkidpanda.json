@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads": "null",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "main_ads_natives":"",
@@ -45,11 +45,11 @@
    ],
   "Mods": [
     {
-      "title": "STJ DREAM COACH",
+      "title": "Kids Panda HR BranXset",
       "image": "https://play-lh.googleusercontent.com/hVGr3sO2u5LYyRAr40LM3DFDfW3V6rWj38c7F3KXCVk4TuiYXNnJZWyxVb4MsbkZvk29=w1024-h500",
       "category": "Bus",
-      "link_mods": "https://archive.org/download/kp-fs-it/DREAM%20COACH.bussidmod",
-      "name_livery": "STJ Draka Dream Coach",
+      "link_mods": "https://www.mediafire.com/file/2iwkah9ucv68j5y/KIDS_PANDA_FAKE_SHADOW.bussidmod/file",
+      "name_livery": "Kids Panda HR BranXset",
       "link_livery": "https://archive.org/download/kp-fs-it/STJ%20Draka%20Dream%20Coach%20by%20Blahbloh.png",
       "name_livery2": "null",
       "link_livery2": "null"
@@ -65,12 +65,12 @@
       "link_livery2": "null"
     },
     {
-      "title": "STJ HINO RK",
-      "image": "https://i.ytimg.com/vi/NernTiUP4dk/maxresdefault.jpg",
+      "title": "Kids Panda JB5",
+      "image": "https://i.pinimg.com/564x/1e/ba/a8/1ebaa8783237c0feb26314b035d4e77e.jpg",
       "category": "Bus",
-      "link_mods": "https://archive.org/download/kp-fs-it/JB3%2B%20SHD%20HINO%20RK.bussidmod",
-      "name_livery": "JB3 HINO PINTU TENGAH",
-      "link_livery": "https://archive.org/download/kp-fs-it/JB3%20HINO%20PINTU%20TENGAH%20-%20STJ%20VIOLA.png",
+      "link_mods": "https://www.mediafire.com/file/mhk9ehzvguhb6ss/JB5_VELG_STD%252BDOP_AP.bussidmod/file",
+      "name_livery": "Tunggal Jaya Kids Panda JB5",
+      "link_livery": "https://www.mediafire.com/view/ew9mdg0qrjodxqb/Tunggal_Jaya_Kids_Panda_JB5_KP_Project_Blahbloh.png/file",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -78,9 +78,9 @@
       "title": "Tunggal Jaya JB4",
       "image": "https://galeribussid.com/wp-content/uploads/2023/10/MOD-BUSSID-JB4-HD-Mercy-1836-by-FCRz.webp",
       "category": "Truk",
-      "link_mods": "https://archive.org/download/kp-fs-it/JB4%20Full%20Acc.bussidmod",
+      "link_mods": "https://www.mediafire.com/file/76eyomain80rdie/JB4_Full_Acc.bussidmod/file",
       "name_livery": "Tunggal Jaya JB4",
-      "link_livery": "https://drive.google.com/uc?export=download&id=1bIpZ66FCCBgevOZaNP-3Na1dWFJbWjkL",
+      "link_livery": "https://www.mediafire.com/view/pscd1h0xctjmx4c/Tunggal_Jaya_JB4_FCRZ_Blahbloh.png/file",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -88,19 +88,19 @@
       "title": "KIDS PANDA 2",
       "image": "https://i.ytimg.com/vi/ZR2es31YP-k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCNPRlCG573hzGgcLFVDhPSNWK_IQ",
       "category": "Truk",
-      "link_mods": "https://archive.org/download/kp-fs-it/KP%20FS%20IT.bussidmod",
-      "name_livery": "KIDS PANDA",
-      "link_livery": "https://archive.org/download/kp-fs-it/KIDS%20PANDA%20BY%20DJ%20OPANK.png",
+      "link_mods": "https://www.mediafire.com/file/158byeui6lnygdn/KP_NF_IT.bussidmod/file",
+      "name_livery": "Tunggal Jaya KIDS PANDA",
+      "link_livery": "https://www.mediafire.com/view/asi6jqykzh4crx8/LIVERY_TUNGGAL_JAYA_KIDS_PANDA.png/file",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "SR2 XHD",
+      "title": "Hino TJ Kids Panda",
       "image": "https://i.ytimg.com/vi/kCigcrjCN9g/hqdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://archive.org/download/kp-fs-it/SR2%20XHD.bussidmod",
-      "name_livery": "STJ MAURO SR2",
-      "link_livery": "https://archive.org/download/kp-fs-it/STJ%20MAURO%20SR2%20by%20Hanafi%20Hardiyan.png",
+      "link_mods": "https://www.mediafire.com/file/rm5gsem88amqbss/ARES.bussidmod/file",
+      "name_livery": "TJ KIDS PANDA GRONK",
+      "link_livery": "https://www.mediafire.com/view/ome1p8bb8xfe8ea/HINO_UPDATE_AF_TJ_KIDS_PANDA_-_GRONK.png/file",
       "name_livery2": "null",
       "link_livery2": "null"
     },

@@ -33,7 +33,7 @@
     },
     {
       "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
-      "view_map": "https://i.ytimg.com/vi/Zk49RugkVng/maxresdefault.jpg",
+      "view_map": "https://i.pinimg.com/564x/a4/bc/8a/a4bc8afbb71356588eeff602fa0ecd48.jpg",
       "map_url": "https://www.mediafire.com/file/4qbi5icd7g233nu/MOD_MAP_BLUSUKAN_DI_WONOSOBO.bussidmod/file"
     },
     {
@@ -116,9 +116,9 @@
     },
     {
       "title": "STJ Conroy Kids Panda",
-      "image": "https://i.ytimg.com/vi/OfpdsuLspqQ/sddefault.jpg",
+      "image": "https://i.pinimg.com/564x/62/fd/34/62fd34547ab92b5d3f6ff49f5e4a1e46.jpg",
       "category": "Mobil",
-      "link_mods": "https://drive.google.com/uc?export=download&id=1jK9W_1Lqn8mCJEKTMwZOmKC2q_tEEj54",
+      "link_mods": "https://www.mediafire.com/file/2iwkah9ucv68j5y/KIDS_PANDA_FAKE_SHADOW.bussidmod/file",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "STJ Conroy Kids Panda",
@@ -152,7 +152,7 @@
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "JB3+ Hino RK SJM Ratu Maher",
-      "link_livery2": "ttps://www.mediafire.com/view/fd5m4ff99s05j1c/SJM_TRANS_RATU_MAHER_FIXx.png/file"
+      "link_livery2": "https://www.mediafire.com/view/fd5m4ff99s05j1c/SJM_TRANS_RATU_MAHER_FIXx.png/file"
     },
     {
       "title": "JB3+ Casper",
@@ -165,14 +165,44 @@
       "link_livery2": "https://www.mediafire.com/view/bkz1eqoqgc4xspg/BRIS_TRANS_CASPER_FIX.png/file"
     },
     {
-      "title": "JB3 MHD HR Java King",
-      "image": "https://i.pinimg.com/564x/ba/4d/ba/ba4dba744db556199e6d4aaa56bbca2a.jpg",
+      "title": "JB3 Javas King",
+      "image": "https://i.pinimg.com/564x/a5/1c/2d/a51c2d5fff3321cb3efb1ca5bf22dc13.jpg",
       "category": "Bus",
       "link_mods": "https://www.mediafire.com/file/6rqmsj5mz8jawbc/JB3_MHD_1626.bussidmod/file",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "JB3 MHD HR Java King",
       "link_livery2": "https://www.mediafire.com/view/b7nv0spj57zw5uj/HR_JAVAS_KING_MOD_JB3_MERCY_1626_UDUMBARA.png/file"
+    },
+    {
+      "title": "Nafit Trans JB5 SHD",
+      "image": "https://i.pinimg.com/564x/40/77/b7/4077b799ef02e4a3b76a3a6cc6b56ed5.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file_premium/l5ofygd6yjuzdts/JB5_VAR_HINO.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Nafit Trans JB5 SHD",
+      "link_livery2": "https://www.mediafire.com/view/zold9wuh6d238sf/NAFIT_TRANS_MOD_JB5_TRYIO_DIECASTER_BY_GARASI_TUBE.png/file"
+    },
+    {
+      "title": "JB3+ MSM Asyrof",
+      "image": "https://i.pinimg.com/564x/7c/7c/23/7c7c2367a620ca5d2221658c062433a7.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file_premium/hpaohcstg2rz4xy/HDD.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "JB3+ MSM Asyrof",
+      "link_livery2": "https://www.mediafire.com/view/a012pdrqpo12iim/Mod_Bussid_MSM_Asyrof_by_Hanafi_Hardiyan.png/file"
+    },
+    {
+      "title": "Vojager SJM Trans Aurora",
+      "image": "https://i.pinimg.com/564x/30/4e/a4/304ea49d7460d41a06784e12fcbe4712.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file_premium/xfzmg338zczzv3m/JB3%252B_VOYAGER_SHARE_BY_JODS_TV.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Vojager SJM Trans Aurora",
+      "link_livery2": "https://www.mediafire.com/view/kd53em0568yd22s/SJM_TRANS_AURORA_KODENAME_JB3_-_FERGIAWAN_CH.png/file"
     }
   ],
   "Audio": [

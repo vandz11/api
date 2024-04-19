@@ -3,7 +3,7 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"null",
-      "main_ads_banner": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
@@ -49,30 +49,30 @@
       "image": "https://play-lh.googleusercontent.com/hVGr3sO2u5LYyRAr40LM3DFDfW3V6rWj38c7F3KXCVk4TuiYXNnJZWyxVb4MsbkZvk29=w1024-h500",
       "category": "Bus",
       "link_mods": "https://www.mediafire.com/file/2iwkah9ucv68j5y/KIDS_PANDA_FAKE_SHADOW.bussidmod/file",
-      "name_livery": "Kids Panda HR BranXset",
-      "link_livery": "https://www.mediafire.com/file_premium/pkcr356re0p5g0h/HR_BronXset.png/file",
-      "name_livery2": "null",
-      "link_livery2": "null"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Kids Panda HR BranXset",
+      "link_livery2": "https://www.mediafire.com/file_premium/pkcr356re0p5g0h/HR_BronXset.png/file"
     },
     {
       "title": "STJ KIDS PANDA 1",
       "image": "https://i.ytimg.com/vi/a_hP9X-dxxw/maxresdefault.jpg",
       "category": "Bus",
       "link_mods": "https://www.mediafire.com/file/nrpuqfqeurn8j4z/NON_FACELIFT_RING_FULL_VARIASI.bussidmod/file",
-      "name_livery": "STJ KIDS PANDA 1",
-      "link_livery": "https://www.mediafire.com/file_premium/jmy45lbq6iai28e/KIDS_PANDA_TJ.png/file",
-      "name_livery2": "null",
-      "link_livery2": "null"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "STJ KIDS PANDA 1",
+      "link_livery2": "https://www.mediafire.com/file_premium/jmy45lbq6iai28e/KIDS_PANDA_TJ.png/file"
     },
     {
       "title": "Kids Panda JB5",
       "image": "https://i.pinimg.com/564x/1e/ba/a8/1ebaa8783237c0feb26314b035d4e77e.jpg",
       "category": "Bus",
       "link_mods": "https://www.mediafire.com/file/mhk9ehzvguhb6ss/JB5_VELG_STD%252BDOP_AP.bussidmod/file",
-      "name_livery": "Tunggal Jaya Kids Panda JB5",
-      "link_livery": "https://www.mediafire.com/?ew9mdg0qrjodxqb",
-      "name_livery2": "null",
-      "link_livery2": "null"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Tunggal Jaya Kids Panda JB5",
+      "link_livery2": "https://www.mediafire.com/?ew9mdg0qrjodxqb"
     },
     {
       "title": "Tunggal Jaya JB4",

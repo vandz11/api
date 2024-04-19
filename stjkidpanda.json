@@ -29,17 +29,17 @@
     {
       "name_map": "green_mars",
       "view_map": "https://i.ytimg.com/vi/15FJVq9zADY/maxresdefault.jpg",
-      "map_url": "https://drive.google.com/uc?export=download&id=1FFWa-yS_YdkMt0i6cxEnTNNIkEyeQzg9"
+      "map_url": "https://www.mediafire.com/file/l8wpn41b7ic98f0/green_mars.bussidmod/file"
     },
     {
       "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
       "view_map": "https://i.ytimg.com/vi/Zk49RugkVng/maxresdefault.jpg",
-      "map_url": "https://archive.org/download/mod-map-blusukan-di-wonosobo/MOD%20MAP%20BLUSUKAN%20DI%20WONOSOBO.bussidmod"
+      "map_url": "https://www.mediafire.com/file/4qbi5icd7g233nu/MOD_MAP_BLUSUKAN_DI_WONOSOBO.bussidmod/file"
     },
     {
-      "name_map": "Map Jalur Maut Papua",
-      "view_map": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggdzpzs-hHnnFIaxxyqzn5ZNSRygoyMM9zvjDuTaamdB60YKLkazeEZxLqK0LRw42CfhTbu504_fGHs0YZkQxDEe9bYlUzfN_m2q0cC031ucK2QA5aWj269_m9sc6j1zaFQPEUbLqoVKATbbA_QRBUba-xzyLTK_RlvROzZzL2k6INxC4H5hwt4rdc/w1200-h630-p-k-no-nu/Photo_220917094036.jpeg",
-      "map_url": "https://archive.org/download/mod-map-jalur-maut/mod%20map%20jalur%20maut.bussidmod"
+      "name_map": "MOD MAP KOTA MATI",
+      "view_map": "https://i.pinimg.com/564x/ae/6a/aa/ae6aaae19a2e6d1fe0e6bd0afd972b94.jpg",
+      "map_url": "https://www.mediafire.com/file/5nytkol4cy5grr9/MOD_MAP_KOTA_MATI_ALIYAN_GMP.bussidmod/file"
     }
    
    ],
@@ -106,7 +106,7 @@
     },
     {
       "title": "Saghara Kids Panda",
-      "image": "https://i.ytimg.com/vi/FASrgk3M-4Y/maxresdefault.jpg",
+      "image": "https://i.pinimg.com/564x/8d/28/53/8d2853cc9e8191ff1661dffc087aa3df.jpg",
       "category": "Mobil",
       "link_mods": "https://www.mediafire.com/file/158byeui6lnygdn/KP_NF_IT.bussidmod/file",
       "name_livery": "null",
@@ -128,15 +128,15 @@
       "title": "STJ BlackPink",
       "image": "https://i.ytimg.com/vi/BviHbMjpj84/maxresdefault.jpg",
       "category": "Mobil",
-      "link_mods": "https://drive.google.com/uc?export=download&id=1zTD-pu1GHx_8Zc7fJSFiTcoz4UimRx36",
-      "name_livery": "Tunggal Jaya BlackPink",
-      "link_livery": "https://drive.google.com/uc?export=download&id=1njMbign095-3_d10ryhGTa9eEburz2da",
-      "name_livery2": "null",
-      "link_livery2": "null"
+      "link_mods": "https://www.mediafire.com/file/yjnianfgdlv820p/JB3SHDRK.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Tunggal Jaya BlackPink",
+      "link_livery2": "https://www.mediafire.com/view/ver0lmyvvdbdeww/TJ_BY_PRAMESTA.png/file"
     },
     {
       "title": "Dugald Stj Kids Panda",
-      "image": "https://modbussid.co.id/wp-content/uploads/2020/07/MOD-BUSSID-JB2-SHD-PO.-Haryanto-La-Samba.jpeg",
+      "image": "https://i.pinimg.com/564x/18/a6/8c/18a68c31f3ce96130bd4e1bca3dc5ca8.jpg",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/tuan-muda-bussid/REXUS_MERCY.bussidmod",
       "name_livery": "null",
@@ -146,7 +146,7 @@
     },
     {
       "title": "SJM Ratu Maher",
-      "image": "https://i.pinimg.com/564x/11/5a/6a/115a6a8f39f8bfb7cff7b54ae80cf936.jpg",
+      "image": "https://i.pinimg.com/564x/7e/6c/8a/7e6c8abc2b5c444dbc80d2dc92bb6d17.jpg",
       "category": "Bus",
       "link_mods": "https://www.mediafire.com/file/ci7vis6n5fpepxt/SJM_RATU_MAHER.bussidmod/file",
       "name_livery": "null",
@@ -156,13 +156,23 @@
     },
     {
       "title": "JB3+ Casper",
-      "image": "https://modbussid.co.id/wp-content/uploads/2020/06/MOD-BUSSID-JB3-Mercedes-Benz.jpeg",
+      "image": "https://i.pinimg.com/564x/ba/4d/ba/ba4dba744db556199e6d4aaa56bbca2a.jpg",
       "category": "Bus",
       "link_mods": "https://www.mediafire.com/file/5z8r5stq9bgjqtk/HINO_RK_BT_CASPER.bussidmod/file",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "JB3+ Hino RK Casper",
       "link_livery2": "https://www.mediafire.com/view/bkz1eqoqgc4xspg/BRIS_TRANS_CASPER_FIX.png/file"
+    },
+    {
+      "title": "JB3 MHD HR Java King",
+      "image": "https://i.pinimg.com/564x/ba/4d/ba/ba4dba744db556199e6d4aaa56bbca2a.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/6rqmsj5mz8jawbc/JB3_MHD_1626.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "JB3 MHD HR Java King",
+      "link_livery2": "https://www.mediafire.com/view/b7nv0spj57zw5uj/HR_JAVAS_KING_MOD_JB3_MERCY_1626_UDUMBARA.png/file"
     }
   ],
   "Audio": [

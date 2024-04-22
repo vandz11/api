@@ -1,0 +1,292 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "green_mars",
+      "view_map": "https://i.ytimg.com/vi/15FJVq9zADY/maxresdefault.jpg",
+      "map_url": "https://www.mediafire.com/file/l8wpn41b7ic98f0/green_mars.bussidmod/file"
+    },
+    {
+      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
+      "view_map": "https://i.pinimg.com/564x/a4/bc/8a/a4bc8afbb71356588eeff602fa0ecd48.jpg",
+      "map_url": "https://www.mediafire.com/file/4qbi5icd7g233nu/MOD_MAP_BLUSUKAN_DI_WONOSOBO.bussidmod/file"
+    },
+    {
+      "name_map": "MOD MAP KOTA MATI",
+      "view_map": "https://i.pinimg.com/564x/ae/6a/aa/ae6aaae19a2e6d1fe0e6bd0afd972b94.jpg",
+      "map_url": "https://www.mediafire.com/file/5nytkol4cy5grr9/MOD_MAP_KOTA_MATI_ALIYAN_GMP.bussidmod/file"
+    }
+   
+   ],
+  "Mods": [
+    {
+      "title": "Kids Panda HR BronXset",
+      "image": "https://i.pinimg.com/564x/00/d5/ce/00d5ce3fc6f440d1f876914413a69574.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/2iwkah9ucv68j5y/KIDS_PANDA_FAKE_SHADOW.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Kids Panda HR BranXset",
+      "link_livery2": "https://www.mediafire.com/file_premium/pkcr356re0p5g0h/HR_BronXset.png/file"
+    },
+    {
+      "title": "STJ KIDS PANDA 1",
+      "image": "https://i.pinimg.com/564x/6d/44/51/6d4451319c0ce70a8266e8c9b9c65476.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/nrpuqfqeurn8j4z/NON_FACELIFT_RING_FULL_VARIASI.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "STJ KIDS PANDA 1",
+      "link_livery2": "https://www.mediafire.com/file_premium/jmy45lbq6iai28e/KIDS_PANDA_TJ.png/file"
+    },
+    {
+      "title": "Kids Panda JB5",
+      "image": "https://i.pinimg.com/564x/1e/ba/a8/1ebaa8783237c0feb26314b035d4e77e.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/mhk9ehzvguhb6ss/JB5_VELG_STD%252BDOP_AP.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Tunggal Jaya Kids Panda JB5",
+      "link_livery2": "https://www.mediafire.com/?ew9mdg0qrjodxqb"
+    },
+    {
+      "title": "Tunggal Jaya JB4",
+      "image": "https://galeribussid.com/wp-content/uploads/2023/10/MOD-BUSSID-JB4-HD-Mercy-1836-by-FCRz.webp",
+      "category": "Truk",
+      "link_mods": "https://www.mediafire.com/file/76eyomain80rdie/JB4_Full_Acc.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Tunggal Jaya JB4",
+      "link_livery2": "https://www.mediafire.com/file/pscd1h0xctjmx4c/Tunggal_Jaya_JB4_FCRZ_Blahbloh.png/file"
+    },
+    {
+      "title": "KIDS PANDA 2",
+      "image": "https://i.pinimg.com/564x/1f/e1/1f/1fe11f6dce30a0f528ed26fb7bf08a89.jpg",
+      "category": "Truk",
+      "link_mods": "https://www.mediafire.com/file/158byeui6lnygdn/KP_NF_IT.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Tunggal Jaya KIDS PANDA",
+      "link_livery2": "https://www.mediafire.com/file_premium/asi6jqykzh4crx8/LIVERY_TUNGGAL_JAYA_KIDS_PANDA.png/file"
+    },
+    {
+      "title": "Hino TJ Kids Panda",
+      "image": "https://i.pinimg.com/564x/cb/a4/3a/cba43a5583dad537e13a30a1b1a1ebd7.jpg",
+      "category": "Mobil",
+      "link_mods": "https://www.mediafire.com/file/rm5gsem88amqbss/ARES.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "TJ KIDS PANDA GRONK",
+      "link_livery2": "https://www.mediafire.com/file_premium/ome1p8bb8xfe8ea/HINO_UPDATE_AF_TJ_KIDS_PANDA_-_GRONK.png/file"
+    },
+    {
+      "title": "Saghara Kids Panda",
+      "image": "https://i.pinimg.com/564x/8d/28/53/8d2853cc9e8191ff1661dffc087aa3df.jpg",
+      "category": "Mobil",
+      "link_mods": "https://www.mediafire.com/file/158byeui6lnygdn/KP_NF_IT.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "STJ Saghara Kids Panda",
+      "link_livery2": "https://www.mediafire.com/view/ohzgb8fiynh08pe/STJ_DUGALD_MOD_JB3_KIDS_PANDA.png/file"
+    },
+    {
+      "title": "STJ Conroy Kids Panda",
+      "image": "https://i.pinimg.com/564x/62/fd/34/62fd34547ab92b5d3f6ff49f5e4a1e46.jpg",
+      "category": "Mobil",
+      "link_mods": "https://www.mediafire.com/file/2iwkah9ucv68j5y/KIDS_PANDA_FAKE_SHADOW.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "STJ Conroy Kids Panda",
+      "link_livery2": "https://www.mediafire.com/view/2m4rqjrj314kyau/STJ_CONROY.png/file"
+    },
+    {
+      "title": "STJ BlackPink",
+      "image": "https://i.ytimg.com/vi/BviHbMjpj84/maxresdefault.jpg",
+      "category": "Mobil",
+      "link_mods": "https://www.mediafire.com/file/yjnianfgdlv820p/JB3SHDRK.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Tunggal Jaya BlackPink",
+      "link_livery2": "https://www.mediafire.com/view/ver0lmyvvdbdeww/TJ_BY_PRAMESTA.png/file"
+    },
+    {
+      "title": "Dugald Stj Kids Panda",
+      "image": "https://i.pinimg.com/564x/18/a6/8c/18a68c31f3ce96130bd4e1bca3dc5ca8.jpg",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/tuan-muda-bussid/REXUS_MERCY.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "STJ Dugald Kids Panda JB3",
+      "link_livery2": "https://www.mediafire.com/file/158byeui6lnygdn/KP_NF_IT.bussidmod/file"
+    },
+    {
+      "title": "SJM Ratu Maher",
+      "image": "https://i.pinimg.com/564x/7e/6c/8a/7e6c8abc2b5c444dbc80d2dc92bb6d17.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/ci7vis6n5fpepxt/SJM_RATU_MAHER.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "JB3+ Hino RK SJM Ratu Maher",
+      "link_livery2": "https://www.mediafire.com/view/fd5m4ff99s05j1c/SJM_TRANS_RATU_MAHER_FIXx.png/file"
+    },
+    {
+      "title": "JB3+ Casper",
+      "image": "https://i.pinimg.com/564x/ba/4d/ba/ba4dba744db556199e6d4aaa56bbca2a.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/5z8r5stq9bgjqtk/HINO_RK_BT_CASPER.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "JB3+ Hino RK Casper",
+      "link_livery2": "https://www.mediafire.com/view/bkz1eqoqgc4xspg/BRIS_TRANS_CASPER_FIX.png/file"
+    },
+    {
+      "title": "JB3 Javas King",
+      "image": "https://i.pinimg.com/564x/a5/1c/2d/a51c2d5fff3321cb3efb1ca5bf22dc13.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/6rqmsj5mz8jawbc/JB3_MHD_1626.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "JB3 MHD HR Java King",
+      "link_livery2": "https://www.mediafire.com/view/b7nv0spj57zw5uj/HR_JAVAS_KING_MOD_JB3_MERCY_1626_UDUMBARA.png/file"
+    },
+    {
+      "title": "Nafit Trans JB5 SHD",
+      "image": "https://i.pinimg.com/564x/40/77/b7/4077b799ef02e4a3b76a3a6cc6b56ed5.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file_premium/l5ofygd6yjuzdts/JB5_VAR_HINO.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Nafit Trans JB5 SHD",
+      "link_livery2": "https://www.mediafire.com/view/zold9wuh6d238sf/NAFIT_TRANS_MOD_JB5_TRYIO_DIECASTER_BY_GARASI_TUBE.png/file"
+    },
+    {
+      "title": "JB3+ MSM Asyrof",
+      "image": "https://i.pinimg.com/564x/7c/7c/23/7c7c2367a620ca5d2221658c062433a7.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file_premium/hpaohcstg2rz4xy/HDD.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "JB3+ MSM Asyrof",
+      "link_livery2": "https://www.mediafire.com/view/a012pdrqpo12iim/Mod_Bussid_MSM_Asyrof_by_Hanafi_Hardiyan.png/file"
+    },
+    {
+      "title": "Vojager SJM Trans Aurora",
+      "image": "https://i.pinimg.com/564x/30/4e/a4/304ea49d7460d41a06784e12fcbe4712.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file_premium/xfzmg338zczzv3m/JB3%252B_VOYAGER_SHARE_BY_JODS_TV.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Vojager SJM Trans Aurora",
+      "link_livery2": "https://www.mediafire.com/view/kd53em0568yd22s/SJM_TRANS_AURORA_KODENAME_JB3_-_FERGIAWAN_CH.png/file"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}

@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
@@ -27,19 +27,19 @@
   ],
   "Maps": [
     {
-      "name_map": "green_mars",
-      "view_map": "https://i.ytimg.com/vi/15FJVq9zADY/maxresdefault.jpg",
-      "map_url": "https://www.mediafire.com/file/l8wpn41b7ic98f0/green_mars.bussidmod/file"
+      "name_map": "TAWANGMANGU",
+      "view_map": "https://i.pinimg.com/564x/4b/6c/ea/4b6cea5f86607c1921fc1c3e9bdff327.jpg",
+      "map_url": "https://www.mediafire.com/file/j57d87098wi1tf6/TAWANGMANGU.bussidmod/file"
     },
     {
-      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
-      "view_map": "https://i.pinimg.com/564x/a4/bc/8a/a4bc8afbb71356588eeff602fa0ecd48.jpg",
-      "map_url": "https://www.mediafire.com/file/4qbi5icd7g233nu/MOD_MAP_BLUSUKAN_DI_WONOSOBO.bussidmod/file"
+      "name_map": "Muddy Off-Road",
+      "view_map": "https://i.pinimg.com/564x/96/2c/67/962c67e8a8ab15469f3d1a556488af29.jpg",
+      "map_url": "https://www.mediafire.com/file/bbnp0840tg7jypw/full_jlurofroad.bussidmod/file"
     },
     {
-      "name_map": "MOD MAP KOTA MATI",
-      "view_map": "https://i.pinimg.com/564x/ae/6a/aa/ae6aaae19a2e6d1fe0e6bd0afd972b94.jpg",
-      "map_url": "https://www.mediafire.com/file/5nytkol4cy5grr9/MOD_MAP_KOTA_MATI_ALIYAN_GMP.bussidmod/file"
+      "name_map": "Map Kelok Jalan-Rusak",
+      "view_map": "https://i.pinimg.com/564x/51/90/50/5190503485629909187eda3e4cce4e4d.jpg",
+      "map_url": "https://www.mediafire.com/file/bbnp0840tg7jypw/full_jlurofroad.bussidmod/file"
     }
    
    ],
@@ -156,13 +156,13 @@
     },
     {
       "title": "STJ Draka Dream Coach",
-      "image": "https://i.pinimg.com/564x/ba/4d/ba/ba4dba744db556199e6d4aaa56bbca2a.jpg",
+      "image": "https://i.pinimg.com/564x/b0/da/54/b0da547f542515edf4cf9408ab9d46af.jpg",
       "category": "Bus",
-      "link_mods": "https://www.mediafire.com/file/5z8r5stq9bgjqtk/HINO_RK_BT_CASPER.bussidmod/file",
+      "link_mods": "https://www.mediafire.com/file/tqiq354ivzlwx27/DREAM_COACH.bussidmod/file",
       "name_livery": "null",
       "link_livery": "null",
-      "name_livery2": "JB3+ Hino RK Casper",
-      "link_livery2": "https://www.mediafire.com/view/bkz1eqoqgc4xspg/BRIS_TRANS_CASPER_FIX.png/file"
+      "name_livery2": "STJ Draka Dream Coach",
+      "link_livery2": "https://www.mediafire.com/view/8vjm43f58ffhznx/STJ_Draka_Dream_Coach_by_Blahbloh.png/file"
     },
     {
       "title": "JB3 Javas King",

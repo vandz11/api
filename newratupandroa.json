@@ -195,14 +195,24 @@
       "link_livery2": "https://www.mediafire.com/view/a012pdrqpo12iim/Mod_Bussid_MSM_Asyrof_by_Hanafi_Hardiyan.png/file"
     },
     {
-      "title": "Vojager SJM Trans Aurora",
-      "image": "https://i.pinimg.com/564x/30/4e/a4/304ea49d7460d41a06784e12fcbe4712.jpg",
+      "title": "Bagja Trans LAS VEGAS JB5",
+      "image": "https://i.pinimg.com/564x/59/a5/da/59a5da3242e01bcaa02dd527fdfa3b23.jpg",
       "category": "Bus",
-      "link_mods": "https://www.mediafire.com/file_premium/xfzmg338zczzv3m/JB3%252B_VOYAGER_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_mods": "https://www.mediafire.com/file/1fsx7vh4fe22zja/JB5_DOP_AP_%25281%2529.bussidmod/file",
       "name_livery": "null",
       "link_livery": "null",
-      "name_livery2": "Vojager SJM Trans Aurora",
-      "link_livery2": "https://www.mediafire.com/view/kd53em0568yd22s/SJM_TRANS_AURORA_KODENAME_JB3_-_FERGIAWAN_CH.png/file"
+      "name_livery2": "Bagja Trans LAS VEGAS JB5",
+      "link_livery2": "https://www.mediafire.com/view/yca3zwir53wmaez/lasvegas.png/file"
+    },
+    {
+      "title": "Borneo Trans Holiday.",
+      "image": "https://i.pinimg.com/564x/6c/ae/c1/6caec19bbf3a303d243705668b457741.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/eo5kapc5mkszieb/JETBUS+3+SHD+GEN+1+FREE+ACC.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "PO Haryanto Borneo Trans Holiday.",
+      "link_livery2": "https://www.mediafire.com/file/63ezfja9lp4yj1u/Borneo+Trans+Holiday+SHD+Ori+Blahbloh.png/file"
     }
   ],
   "Audio": [

@@ -27,19 +27,19 @@
   ],
   "Maps": [
     {
-      "name_map": "green_mars",
-      "view_map": "https://i.ytimg.com/vi/15FJVq9zADY/maxresdefault.jpg",
-      "map_url": "https://www.mediafire.com/file/l8wpn41b7ic98f0/green_mars.bussidmod/file"
+      "name_map": "Forest SNow",
+      "view_map": "https://i.pinimg.com/564x/02/7f/71/027f71ef186d2321d7f097a0c057fe72.jpg",
+      "map_url": "https://www.mediafire.com/file/xtz4p10h95w4xkt/Forest_Snow_Road_Map.bussidmod/file"
     },
     {
-      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
-      "view_map": "https://i.pinimg.com/564x/a4/bc/8a/a4bc8afbb71356588eeff602fa0ecd48.jpg",
-      "map_url": "https://www.mediafire.com/file/4qbi5icd7g233nu/MOD_MAP_BLUSUKAN_DI_WONOSOBO.bussidmod/file"
+      "name_map": "full jalur khusus ofroad",
+      "view_map": "https://i.pinimg.com/564x/18/38/4f/18384fd07060a5691487df77f62c4d07.jpg",
+      "map_url": "https://www.mediafire.com/file/01wks6l5pz16v8o/full_jalur_khusus_ofroad.bussidmod/file"
     },
     {
-      "name_map": "MOD MAP KOTA MATI",
-      "view_map": "https://i.pinimg.com/564x/ae/6a/aa/ae6aaae19a2e6d1fe0e6bd0afd972b94.jpg",
-      "map_url": "https://www.mediafire.com/file/5nytkol4cy5grr9/MOD_MAP_KOTA_MATI_ALIYAN_GMP.bussidmod/file"
+      "name_map": "mod map jalur maut",
+      "view_map": "https://i.pinimg.com/564x/ad/28/e0/ad28e07537197047945fda13d33ea017.jpg",
+      "map_url": "https://www.mediafire.com/file/to5a7182eorybdy/mod_map_jalur_maut.bussidmod/file"
     }
    
    ],
@@ -86,13 +86,13 @@
     },
     {
       "title": "Tunggal Jaya Saturn Reborn",
-      "image": "https://i.pinimg.com/564x/22/d0/d9/22d0d945e46d1d4932775445e2667c33.jpg",
+      "image": "https://i.pinimg.com/564x/7c/23/d0/7c23d0c06b70ca64718a926dfcd403bc.jpg",
       "category": "Truk",
-      "link_mods": "https://www.mediafire.com/file/tie5ufrndtf9cfg/Tunggal_Jaya_Saturn_Reborn.bussidmod/file",
+      "link_mods": "https://www.mediafire.com/file/ctg3qfaofu1chfc/FULL_VARIASI.bussidmod/file",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "Tunggal Jaya Saturn Reborn",
-      "link_livery2": "https://www.mediafire.com/view/cjeatdmsxaduy5o/LIVERY_TUNGGAL_JAYA_SATURN_REBORN_MOD.png/file"
+      "link_livery2": "https://www.mediafire.com/view/kgqkgq9dkunpb3q/Livery_TJ_SATURN_JB3_GEN_4_FARIDH_by_Hanafi_Hardiyan.png/file"
     },
     {
       "title": "Tunggal Jaya The Elmo",
@@ -213,6 +213,16 @@
       "link_livery": "null",
       "name_livery2": "FULL BANNER Boneka Tunggal Jaya Black Pink JB5",
       "link_livery2": "https://www.mediafire.com/view/mafenpzzs3ma601/Tunggal_Jaya_Black_Pink_Banner_Boneka_JB5_KP_Project_Blahbloh.png/file"
+    },
+    {
+      "title": "TUNGGAL JAYA DEEP PURPLE V2",
+      "image": "https://i.pinimg.com/736x/21/d3/a2/21d3a296b849f57bf0fc348a52105f0d.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/vv3pyu51cqpxwbz/JB_5_ALCOA_ACC.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "TUNGGAL JAYA DEEP PURPLE V2",
+      "link_livery2": "https://www.mediafire.com/view/k6f6m15ggev4pkr/DEEP_PURPLE_%2528Safefileku%2529.png/file"
     }
   ],
   "Audio": [

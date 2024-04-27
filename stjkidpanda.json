@@ -2,14 +2,14 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-9880738442368534/7044768306",
+      "main_ads_intertitial":"ca-app-pub-9880738442368534/7098505550",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "open_ads_admob":"",
+      "backup_ads_intertitial":"21eacc6b1216d8b9",
+      "open_ads_admob":"ca-app-pub-9880738442368534/9484161596",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
@@ -203,6 +203,26 @@
       "link_livery": "null",
       "name_livery2": "Vojager SJM Trans Aurora",
       "link_livery2": "https://www.mediafire.com/view/kd53em0568yd22s/SJM_TRANS_AURORA_KODENAME_JB3_-_FERGIAWAN_CH.png/file"
+    },
+    {
+      "title": "Tunggal Jaya kids Panda Banner JB5",
+      "image": "https://i.pinimg.com/564x/7d/e4/c1/7de4c127a5fa592e0a45a1f28dcaaee5.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/5mhzgidixjmeaci/JB5_VELG_RING_BONEKA.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Tunggal Jaya kids Panda full Banner JB5",
+      "link_livery2": "https://www.mediafire.com/view/w7w8hp8zush0953/Tunggal_Jaya_kids_Panda_Banner_JB5_Blahbloh.png/file"
+    },
+    {
+      "title": "Aneka Bintang Java's Queen JB3",
+      "image": "https://i.pinimg.com/564x/50/53/03/505303584228f1c8ac45d1ee4ed8dd9e.jpg",
+      "category": "Bus",
+      "link_mods": "https://www.mediafire.com/file/7bdkrgotwm6jmyf/JB3%252B_SHD_HINO_RK8_MAX.bussidmod/file",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "Aneka Bintang Java's Queen JB3",
+      "link_livery2": "https://www.mediafire.com/view/kc6afxudjlptt5v/Aneka_Bintang_Java%2527s_Queen_JB3_KP_Project_Blahbloh.png/file"
     }
   ],
   "Audio": [

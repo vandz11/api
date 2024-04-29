@@ -3,13 +3,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"null",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-9880738442368534/7800883565",
+      "main_ads_intertitial":"ca-app-pub-9880738442368534/1846178873",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-9880738442368534/2918753243",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
@@ -34,7 +34,7 @@
     {
       "name_map": "Muddy Off-Road",
       "view_map": "https://i.pinimg.com/564x/96/2c/67/962c67e8a8ab15469f3d1a556488af29.jpg",
-      "map_url": "https://www.mediafire.com/file/bbnp0840tg7jypw/full_jlurofroad.bussidmod/file"
+      "map_url": "https://www.mediafire.com/file/01wks6l5pz16v8o/full_jalur_khusus_ofroad.bussidmod/file"
     },
     {
       "name_map": "Map Kelok Jalan-Rusak",

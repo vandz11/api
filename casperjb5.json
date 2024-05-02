@@ -3,7 +3,7 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_banner": "",
       "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
@@ -27,14 +27,14 @@
   ],
   "Maps": [
     {
-      "name_map": "green_mars",
-      "view_map": "https://i.ytimg.com/vi/15FJVq9zADY/maxresdefault.jpg",
-      "map_url": "https://www.mediafire.com/file/l8wpn41b7ic98f0/green_mars.bussidmod/file"
+      "name_map": "Map Kelok Jalan-Rusak",
+      "view_map": "https://i.pinimg.com/564x/51/90/50/5190503485629909187eda3e4cce4e4d.jpg",
+      "map_url": "https://www.mediafire.com/file/bbnp0840tg7jypw/full_jlurofroad.bussidmod/file"
     },
     {
-      "name_map": "MOD MAP BLUSUKAN DI WONOSOBO",
-      "view_map": "https://i.pinimg.com/564x/a4/bc/8a/a4bc8afbb71356588eeff602fa0ecd48.jpg",
-      "map_url": "https://www.mediafire.com/file/4qbi5icd7g233nu/MOD_MAP_BLUSUKAN_DI_WONOSOBO.bussidmod/file"
+      "name_map": "bukit bintang",
+      "view_map": "https://i.ytimg.com/vi/H8ZAQUU_6sY/maxresdefault.jpg",
+      "map_url": "https://www.mediafire.com/file/encz5grvjdiksxf/bukit_bintang_amdroid93.bussidmod/file"
     },
     {
       "name_map": "MOD MAP KOTA MATI",

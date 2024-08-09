@@ -1,15 +1,15 @@
 {
   "Ads": [
     {
-      "select_main_ads": "null",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/9214589741",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/9257395921",
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
@@ -88,10 +88,10 @@
       "image": "https://i.ytimg.com/vi/FkKwElPBCrI/maxresdefault.jpg",
       "category": "Truk",
       "link_mods": "https://archive.org/download/avante-d-2/AVANTE%20D2.bussidmod",
-      "name_livery": "AVANTE D2 Harjay",
-      "link_livery": "https://archive.org/download/avante-d-2/AVANTE%20D2%20Harjay.png",
-      "name_livery2": "null",
-      "link_livery2": "null"
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "AVANTE D2 Harjay",
+      "link_livery2": "https://drive.google.com/uc?export=download&id=1q4sI4Mq4EcILasz_wGREX-5if9zKTqyq"
     },
     {
       "title": "Pandawa 87 Jetbus 3+ SDD Voyager",
